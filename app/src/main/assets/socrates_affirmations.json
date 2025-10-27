@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "affirmation": "I embrace that the only true wisdom is knowing that I know nothing.",
+    "category": "Self-Knowledge & Wisdom"
+  },
+  {
+    "id": 2,
+    "affirmation": "I live an examined life, for the unexamined life is not worth living.",
+    "category": "Self-Reflection & Examination"
+  },
+  {
+    "id": 3,
+    "affirmation": "I recognize that virtue is knowledge, and through wisdom I become good.",
+    "category": "Virtue & Knowledge"
+  },
+  {
+    "id": 4,
+    "affirmation": "I question everything, for questioning leads to understanding.",
+    "category": "Inquiry & Method"
+  },
+  {
+    "id": 5,
+    "affirmation": "I know myself, for self-knowledge is the beginning of all wisdom.",
+    "category": "Self-Knowledge & Wisdom"
+  },
+  {
+    "id": 6,
+    "affirmation": "I cannot teach anyone anything; I can only help them think for themselves.",
+    "category": "Teaching & Learning"
+  },
+  {
+    "id": 7,
+    "affirmation": "I find that there is only one good - knowledge, and one evil - ignorance.",
+    "category": "Knowledge & Ignorance"
+  },
+  {
+    "id": 8,
+    "affirmation": "I am kind to everyone, for each person I meet is fighting a hard battle.",
+    "category": "Compassion & Understanding"
+  },
+  {
+    "id": 9,
+    "affirmation": "I let wonder be the beginning of my wisdom.",
+    "category": "Wonder & Curiosity"
+  },
+  {
+    "id": 10,
+    "affirmation": "I think for myself to find myself.",
+    "category": "Self-Discovery"
+  },
+  {
+    "id": 11,
+    "affirmation": "I understand that no one does wrong willingly; all evil comes from ignorance.",
+    "category": "Human Nature & Evil"
+  },
+  {
+    "id": 12,
+    "affirmation": "I value not life itself, but living rightly and well.",
+    "category": "Good Life & Values"
+  },
+  {
+    "id": 13,
+    "affirmation": "I seek beauty in the inward soul and align my outer and inner self.",
+    "category": "Inner Beauty & Harmony"
+  },
+  {
+    "id": 14,
+    "affirmation": "I acknowledge my intellectual humility and remain open to learning.",
+    "category": "Humility & Learning"
+  },
+  {
+    "id": 15,
+    "affirmation": "I discuss ideas with strong minds rather than gossip about people.",
+    "category": "Intellectual Discourse"
+  },
+  {
+    "id": 16,
+    "affirmation": "I understand that education kindles a flame rather than filling a vessel.",
+    "category": "Education & Learning"
+  },
+  {
+    "id": 17,
+    "affirmation": "I am slow to fall into friendship, but once in, I remain firm and constant.",
+    "category": "Friendship & Loyalty"
+  },
+  {
+    "id": 18,
+    "affirmation": "I find happiness not in seeking more, but in developing capacity to enjoy less.",
+    "category": "Contentment & Happiness"
+  },
+  {
+    "id": 19,
+    "affirmation": "I move myself first before attempting to move the world.",
+    "category": "Self-Improvement"
+  },
+  {
+    "id": 20,
+    "affirmation": "I see contentment as natural wealth and luxury as artificial poverty.",
+    "category": "Wealth & Contentment"
+  },
+  {
+    "id": 21,
+    "affirmation": "I understand that death may be the greatest of all human blessings.",
+    "category": "Death & Mortality"
+  },
+  {
+    "id": 22,
+    "affirmation": "I improve myself through others' writings, learning from their labor.",
+    "category": "Learning & Wisdom"
+  },
+  {
+    "id": 23,
+    "affirmation": "I treat others as I would wish to be treated myself.",
+    "category": "Ethics & Treatment"
+  },
+  {
+    "id": 24,
+    "affirmation": "I recognize that every action has both its pleasures and its price.",
+    "category": "Consequences & Actions"
+  },
+  {
+    "id": 25,
+    "affirmation": "I am a citizen of the world, not bound by narrow nationalism.",
+    "category": "Cosmopolitanism"
+  },
+  {
+    "id": 26,
+    "affirmation": "I understand that false words infect the soul with evil.",
+    "category": "Truth & Honesty"
+  },
+  {
+    "id": 27,
+    "affirmation": "I do not return injury for injury, for it is never right to do injustice.",
+    "category": "Justice & Forgiveness"
+  },
+  {
+    "id": 28,
+    "affirmation": "I live beautifully, justly, and well as one unified existence.",
+    "category": "Unified Living"
+  },
+  {
+    "id": 29,
+    "affirmation": "I desire wisdom and insight as urgently as I desire to breathe.",
+    "category": "Wisdom & Desire"
+  },
+  {
+    "id": 30,
+    "affirmation": "I maintain physical fitness, for it is shameful to neglect my body's potential.",
+    "category": "Physical Excellence"
+  },
+  {
+    "id": 31,
+    "affirmation": "I examine my beliefs through dialogue and questioning.",
+    "category": "Critical Thinking"
+  },
+  {
+    "id": 32,
+    "affirmation": "I admit my ignorance as the first step toward true knowledge.",
+    "category": "Intellectual Honesty"
+  },
+  {
+    "id": 33,
+    "affirmation": "I care more for my soul than for my body or possessions.",
+    "category": "Soul & Priorities"
+  },
+  {
+    "id": 34,
+    "affirmation": "I define myself by my character and actions, not external things.",
+    "category": "Character & Identity"
+  },
+  {
+    "id": 35,
+    "affirmation": "I question authority and accepted wisdom to find truth.",
+    "category": "Authority & Truth"
+  },
+  {
+    "id": 36,
+    "affirmation": "I understand that an unexamined assumption is a dangerous foundation.",
+    "category": "Examination & Assumptions"
+  },
+  {
+    "id": 37,
+    "affirmation": "I practice self-control as a form of wisdom and knowledge.",
+    "category": "Self-Control & Wisdom"
+  },
+  {
+    "id": 38,
+    "affirmation": "I seek to understand the nature of justice through inquiry and dialogue.",
+    "category": "Justice & Inquiry"
+  },
+  {
+    "id": 39,
+    "affirmation": "I accept that I may be wrong and remain open to correction.",
+    "category": "Fallibility & Growth"
+  },
+  {
+    "id": 40,
+    "affirmation": "I measure my worth by my virtue, not by worldly success.",
+    "category": "Worth & Virtue"
+  },
+  {
+    "id": 41,
+    "affirmation": "I use reason as my guide in all moral decisions.",
+    "category": "Reason & Morality"
+  },
+  {
+    "id": 42,
+    "affirmation": "I understand that courage is knowledge of what to fear and what not to fear.",
+    "category": "Courage & Knowledge"
+  },
+  {
+    "id": 43,
+    "affirmation": "I practice temperance as knowledge of proper measure in all things.",
+    "category": "Temperance & Measure"
+  },
+  {
+    "id": 44,
+    "affirmation": "I see piety as right relationship with the divine through virtue.",
+    "category": "Piety & Divine"
+  },
+  {
+    "id": 45,
+    "affirmation": "I acknowledge that my soul is more valuable than my body.",
+    "category": "Soul & Value"
+  },
+  {
+    "id": 46,
+    "affirmation": "I prefer to suffer injustice rather than commit it.",
+    "category": "Justice & Suffering"
+  },
+  {
+    "id": 47,
+    "affirmation": "I trust that the divine sign within guides me away from error.",
+    "category": "Divine Guidance"
+  },
+  {
+    "id": 48,
+    "affirmation": "I understand that knowledge of good and evil is the highest knowledge.",
+    "category": "Good & Evil Knowledge"
+  },
+  {
+    "id": 49,
+    "affirmation": "I care for my soul through philosophical examination.",
+    "category": "Soul Care & Philosophy"
+  },
+  {
+    "id": 50,
+    "affirmation": "I see death as either eternal sleep or a journey to meet great souls.",
+    "category": "Death & Journey"
+  },
+  {
+    "id": 51,
+    "affirmation": "I question my own beliefs as rigorously as I question others'.",
+    "category": "Self-Questioning"
+  },
+  {
+    "id": 52,
+    "affirmation": "I understand that wisdom consists in knowing the limits of my knowledge.",
+    "category": "Wisdom & Limits"
+  },
+  {
+    "id": 53,
+    "affirmation": "I practice dialectic to expose false beliefs and find truth.",
+    "category": "Dialectic & Truth"
+  },
+  {
+    "id": 54,
+    "affirmation": "I remain curious and maintain wonder about the world.",
+    "category": "Curiosity & Wonder"
+  },
+  {
+    "id": 55,
+    "affirmation": "I understand that knowledge is recollection of eternal truths.",
+    "category": "Knowledge & Recollection"
+  },
+  {
+    "id": 56,
+    "affirmation": "I see my role as a midwife helping others give birth to their own ideas.",
+    "category": "Teaching & Midwifery"
+  },
+  {
+    "id": 57,
+    "affirmation": "I value the health of my soul above all material possessions.",
+    "category": "Soul Health & Materialism"
+  },
+  {
+    "id": 58,
+    "affirmation": "I understand that true knowledge leads inevitably to virtuous action.",
+    "category": "Knowledge & Action"
+  },
+  {
+    "id": 59,
+    "affirmation": "I examine my life daily to ensure I live according to reason.",
+    "category": "Daily Examination"
+  },
+  {
+    "id": 60,
+    "affirmation": "I see ignorance as the root of all evil and vice.",
+    "category": "Ignorance & Evil"
+  },
+  {
+    "id": 61,
+    "affirmation": "I practice intellectual humility in all my interactions.",
+    "category": "Intellectual Humility"
+  },
+  {
+    "id": 62,
+    "affirmation": "I understand that definitions reveal the essence of things.",
+    "category": "Definitions & Essence"
+  },
+  {
+    "id": 63,
+    "affirmation": "I seek universal truths through particular examples and cases.",
+    "category": "Universal & Particular"
+  },
+  {
+    "id": 64,
+    "affirmation": "I believe that no evil can befall a good person, in life or death.",
+    "category": "Good Person & Evil"
+  },
+  {
+    "id": 65,
+    "affirmation": "I understand that the gods are wise and good.",
+    "category": "Divine Wisdom"
+  },
+  {
+    "id": 66,
+    "affirmation": "I practice philosophy as preparation for death.",
+    "category": "Philosophy & Death"
+  },
+  {
+    "id": 67,
+    "affirmation": "I see contradiction as a sign that my understanding is incomplete.",
+    "category": "Contradiction & Understanding"
+  },
+  {
+    "id": 68,
+    "affirmation": "I use irony to expose the false confidence of those who claim knowledge.",
+    "category": "Irony & False Knowledge"
+  },
+  {
+    "id": 69,
+    "affirmation": "I understand that virtue cannot be taught like technical skills.",
+    "category": "Virtue & Teaching"
+  },
+  {
+    "id": 70,
+    "affirmation": "I seek to align my will with divine will through virtue.",
+    "category": "Will & Divine Alignment"
+  },
+  {
+    "id": 71,
+    "affirmation": "I recognize that moral knowledge is different from technical knowledge.",
+    "category": "Moral vs Technical Knowledge"
+  },
+  {
+    "id": 72,
+    "affirmation": "I understand that the soul is the source of all knowledge and virtue.",
+    "category": "Soul & Knowledge Source"
+  },
+  {
+    "id": 73,
+    "affirmation": "I practice self-examination as my highest duty.",
+    "category": "Self-Examination & Duty"
+  },
+  {
+    "id": 74,
+    "affirmation": "I see apparent contradictions as opportunities for deeper understanding.",
+    "category": "Contradictions & Opportunity"
+  },
+  {
+    "id": 75,
+    "affirmation": "I understand that true friendship is based on virtue and wisdom.",
+    "category": "True Friendship"
+  },
+  {
+    "id": 76,
+    "affirmation": "I accept that human wisdom is worth little compared to divine wisdom.",
+    "category": "Human vs Divine Wisdom"
+  },
+  {
+    "id": 77,
+    "affirmation": "I see my mission as awakening others to examine their lives.",
+    "category": "Mission & Awakening"
+  },
+  {
+    "id": 78,
+    "affirmation": "I understand that knowledge of ignorance is better than ignorant confidence.",
+    "category": "Knowing Ignorance"
+  },
+  {
+    "id": 79,
+    "affirmation": "I practice philosophy as a way of life, not just an academic discipline.",
+    "category": "Philosophy as Life"
+  },
+  {
+    "id": 80,
+    "affirmation": "I see every conversation as an opportunity for mutual learning.",
+    "category": "Conversation & Learning"
+  },
+  {
+    "id": 81,
+    "affirmation": "I understand that the care of the soul is my primary responsibility.",
+    "category": "Soul Care & Responsibility"
+  },
+  {
+    "id": 82,
+    "affirmation": "I recognize that ethical knowledge must be lived, not just understood.",
+    "category": "Ethical Knowledge & Living"
+  },
+  {
+    "id": 83,
+    "affirmation": "I see wisdom as recognizing the difference between what I know and what I don't.",
+    "category": "Wisdom & Recognition"
+  },
+  {
+    "id": 84,
+    "affirmation": "I understand that the examined life requires constant vigilance and effort.",
+    "category": "Examined Life & Effort"
+  },
+  {
+    "id": 85,
+    "affirmation": "I practice aporia - the productive confusion that leads to insight.",
+    "category": "Aporia & Insight"
+  },
+  {
+    "id": 86,
+    "affirmation": "I see questioning as an act of love for truth and the person questioned.",
+    "category": "Questioning & Love"
+  },
+  {
+    "id": 87,
+    "affirmation": "I understand that moral improvement comes through self-knowledge.",
+    "category": "Moral Improvement"
+  },
+  {
+    "id": 88,
+    "affirmation": "I accept that true knowledge often reveals how much I don't know.",
+    "category": "True Knowledge & Revelation"
+  },
+  {
+    "id": 89,
+    "affirmation": "I see my ignorance as an opportunity for growth and learning.",
+    "category": "Ignorance & Growth"
+  },
+  {
+    "id": 90,
+    "affirmation": "I understand that virtue is its own reward and needs no external validation.",
+    "category": "Virtue & Reward"
+  },
+  {
+    "id": 91,
+    "affirmation": "I practice intellectual courage in questioning popular beliefs.",
+    "category": "Intellectual Courage"
+  },
+  {
+    "id": 92,
+    "affirmation": "I see philosophy as medicine for the soul's ailments.",
+    "category": "Philosophy & Soul Medicine"
+  },
+  {
+    "id": 93,
+    "affirmation": "I understand that wisdom begins with acknowledging my limitations.",
+    "category": "Wisdom & Limitations"
+  },
+  {
+    "id": 94,
+    "affirmation": "I seek truth through collaborative inquiry rather than debate.",
+    "category": "Truth & Collaboration"
+  },
+  {
+    "id": 95,
+    "affirmation": "I recognize that learning requires admitting what I don't understand.",
+    "category": "Learning & Admission"
+  },
+  {
+    "id": 96,
+    "affirmation": "I understand that the divine has given me reason to use for good.",
+    "category": "Divine Reason & Good"
+  },
+  {
+    "id": 97,
+    "affirmation": "I see every mistake as a teacher pointing toward truth.",
+    "category": "Mistakes & Teaching"
+  },
+  {
+    "id": 98,
+    "affirmation": "I practice philosophy to become a better person, not just more knowledgeable.",
+    "category": "Philosophy & Betterment"
+  },
+  {
+    "id": 99,
+    "affirmation": "I understand that the pursuit of wisdom is a lifelong journey.",
+    "category": "Wisdom & Journey"
+  },
+  {
+    "id": 100,
+    "affirmation": "I live each day examining my thoughts, beliefs, and actions for truth and virtue.",
+    "category": "Daily Practice & Virtue"
+  }
+]

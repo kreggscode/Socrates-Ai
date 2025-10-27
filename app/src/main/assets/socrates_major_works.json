@@ -1,0 +1,786 @@
+[
+  {
+    "id": "apology",
+    "title": "Apology",
+    "subtitle": "The Defense of the Philosophical Life",
+    "year": "-399",
+    "type": "Socratic Dialogue",
+    "icon": "⚖️",
+    "summary": "Plato's account of Socrates' defense during his trial for corrupting the youth and impiety, containing his most famous philosophical declarations.",
+    "keyConcept": "The unexamined life is not worth living",
+    "keyConceptExplanation": "Human beings must constantly reflect upon their beliefs and values to live meaningfully",
+    "sections": [
+      {
+        "title": "The Oracle of Delphi",
+        "content": "Socrates explains that the Oracle declared him wisest because he alone knows that he knows nothing, while others falsely believe they possess knowledge."
+      },
+      {
+        "title": "The Mission of Philosophy",
+        "content": "Socrates describes his divine mission to examine himself and others, acting as a gadfly to awaken Athens from intellectual complacency."
+      },
+      {
+        "title": "Death and the Unknown",
+        "content": "Facing execution, Socrates argues that death is either dreamless sleep (a blessing) or transition to another realm where he can continue questioning great souls."
+      },
+      {
+        "title": "No Harm to the Good Man",
+        "content": "Socrates maintains that no evil can befall a good person in life or death, as virtue is the only true good and vice the only true evil."
+      }
+    ],
+    "funFacts": [
+      "Socrates was 70 years old when he delivered this defense",
+      "The jury of 501 citizens voted 280-221 to convict him",
+      "Socrates proposed paying a small fine instead of death penalty",
+      "He refused opportunities to escape, choosing to honor Athens' laws"
+    ],
+    "keyPrinciples": [
+      {
+        "principle": "Socratic Ignorance",
+        "explanation": "True wisdom begins with recognizing the limits of one's knowledge"
+      },
+      {
+        "principle": "Care of the Soul",
+        "explanation": "The soul's virtue matters more than bodily pleasures or external goods"
+      },
+      {
+        "principle": "Divine Mission",
+        "explanation": "Philosophy is a sacred duty to examine life and seek truth"
+      }
+    ]
+  },
+  {
+    "id": "crito",
+    "title": "Crito",
+    "subtitle": "On Justice and Civil Obligation",
+    "year": "-399",
+    "type": "Socratic Dialogue",
+    "icon": "🏛️",
+    "summary": "Socrates' final dialogue on justice, explaining why he refuses to escape prison and must accept his death sentence.",
+    "keyConcept": "We must never do wrong, even in response to wrong",
+    "keyConceptExplanation": "Justice requires never harming others, regardless of how they treat us",
+    "sections": [
+      {
+        "title": "The Escape Plan",
+        "content": "Crito offers to help Socrates escape, arguing he has obligations to his family and that his death will harm his friends' reputations."
+      },
+      {
+        "title": "The Examined Decision",
+        "content": "Socrates insists they must examine whether escape is just, not simply consider consequences or popular opinion."
+      },
+      {
+        "title": "The Social Contract",
+        "content": "Socrates argues that he has an implicit agreement with Athens' laws, which have protected and nurtured him throughout life."
+      },
+      {
+        "title": "The Voice of the Laws",
+        "content": "In a powerful personification, the Laws of Athens speak, explaining why Socrates' escape would undermine justice itself."
+      }
+    ],
+    "funFacts": [
+      "Takes place in Socrates' prison cell at dawn",
+      "Crito was one of Socrates' oldest and wealthiest friends",
+      "The dialogue influenced concepts of civil disobedience for centuries",
+      "Shows Socrates' commitment to his principles even facing death"
+    ],
+    "keyPrinciples": [
+      {
+        "principle": "Never Do Wrong",
+        "explanation": "We must not commit injustice even when wronged by others"
+      },
+      {
+        "principle": "Social Contract",
+        "explanation": "Citizens have obligations to the laws that have nurtured them"
+      },
+      {
+        "principle": "Consistency",
+        "explanation": "We must live according to our examined principles, not convenience"
+      }
+    ]
+  },
+  {
+    "id": "euthyphro",
+    "title": "Euthyphro",
+    "subtitle": "On the Nature of Piety",
+    "year": "-399",
+    "type": "Socratic Dialogue",
+    "icon": "⛪",
+    "summary": "Socrates' examination of piety and holiness through questioning a young man who claims certain knowledge of divine will.",
+    "keyConcept": "The Euthyphro Dilemma",
+    "keyConceptExplanation": "Is something pious because the gods love it, or do the gods love it because it is pious?",
+    "sections": [
+      {
+        "title": "The Prosecution of a Father",
+        "content": "Euthyphro is prosecuting his own father for murder, claiming he acts from certain knowledge of what piety requires."
+      },
+      {
+        "title": "Defining Piety",
+        "content": "Socrates seeks a universal definition of piety, rejecting Euthyphro's examples in favor of understanding the essence."
+      },
+      {
+        "title": "The Divine Command Problem",
+        "content": "If gods disagree about right and wrong, how can their commands define piety? This challenges divine command theory of ethics."
+      },
+      {
+        "title": "The Form of Piety",
+        "content": "Socrates seeks the eternal, unchanging nature that makes all pious acts pious, pointing toward his theory of Forms."
+      }
+    ],
+    "funFacts": [
+      "Takes place on the steps of the courthouse before Socrates' trial",
+      "Euthyphro leaves in frustration, unable to answer Socrates' questions",
+      "The dilemma remains central to philosophy of religion today",
+      "Shows how Socrates questioned religious orthodoxy"
+    ],
+    "keyPrinciples": [
+      {
+        "principle": "Essential Definition",
+        "explanation": "We must understand the essence of concepts, not just examples"
+      },
+      {
+        "principle": "Divine Independence",
+        "explanation": "Good and evil exist independently of divine commands"
+      },
+      {
+        "principle": "Rational Religion",
+        "explanation": "Religious beliefs must withstand rational examination"
+      }
+    ]
+  },
+  {
+    "id": "meno",
+    "title": "Meno",
+    "subtitle": "On the Nature of Knowledge",
+    "year": "-380",
+    "type": "Socratic Dialogue",
+    "icon": "🧠",
+    "summary": "Socrates' exploration of whether virtue can be taught, introducing the theory of recollection and the nature of learning.",
+    "keyConcept": "Learning is recollection",
+    "keyConceptExplanation": "The soul already knows all truths; learning is remembering what we already knew",
+    "sections": [
+      {
+        "title": "Can Virtue Be Taught?",
+        "content": "Meno asks whether virtue comes from teaching, practice, or nature. Socrates shows we cannot answer without first knowing what virtue is."
+      },
+      {
+        "title": "Meno's Paradox",
+        "content": "How can we search for something we don't know? If we don't know it, we won't recognize it when found; if we do know it, why search?"
+      },
+      {
+        "title": "The Slave Boy's Geometry",
+        "content": "Socrates demonstrates that an untaught slave can 'discover' geometric truths through questioning, suggesting knowledge is innate."
+      },
+      {
+        "title": "Recollection Theory",
+        "content": "The soul is immortal and has seen all things; learning is the soul recollecting eternal truths it once knew."
+      }
+    ],
+    "funFacts": [
+      "Contains the first documented geometric proof in literature",
+      "The slave boy knows no geometry yet solves complex problems",
+      "Introduces Plato's theory of the immortal soul",
+      "Influenced educational theory for over 2000 years"
+    ],
+    "keyPrinciples": [
+      {
+        "principle": "Innate Knowledge",
+        "explanation": "The soul possesses knowledge before birth"
+      },
+      {
+        "principle": "Immortal Soul",
+        "explanation": "The soul exists before birth and after death"
+      },
+      {
+        "principle": "Maieutic Method",
+        "explanation": "Teachers help students discover truth within themselves"
+      }
+    ]
+  },
+  {
+    "id": "phaedo",
+    "title": "Phaedo",
+    "subtitle": "On the Soul and Death",
+    "year": "-360",
+    "type": "Socratic Dialogue",
+    "icon": "💀",
+    "summary": "Socrates' final philosophical conversation on the immortality of the soul and the philosopher's attitude toward death.",
+    "keyConcept": "Philosophy is practice for dying",
+    "keyConceptExplanation": "Philosophers spend their lives separating soul from body concerns, preparing for death",
+    "sections": [
+      {
+        "title": "The Philosopher's Death",
+        "content": "True philosophers welcome death because it frees the soul from bodily distractions, allowing pure contemplation of truth."
+      },
+      {
+        "title": "The Soul's Immortality",
+        "content": "Socrates offers multiple proofs that the soul cannot die: from opposites, recollection, affinity to eternal Forms, and the soul's essential nature."
+      },
+      {
+        "title": "The Theory of Forms",
+        "content": "Perfect, eternal, unchanging realities (Justice, Beauty, Goodness) exist beyond the physical world and are known by the rational soul."
+      },
+      {
+        "title": "The Soul's Journey",
+        "content": "After death, souls are judged and sent to appropriate destinations based on their philosophical purification during life."
+      }
+    ],
+    "funFacts": [
+      "Narrated by Phaedo, who was present at Socrates' death",
+      "Socrates drinks the hemlock at the dialogue's end",
+      "Contains some of Plato's most developed metaphysical theories",
+      "His last words: 'We owe a cock to Asclepius' (god of healing)"
+    ],
+    "keyPrinciples": [
+      {
+        "principle": "Soul-Body Dualism",
+        "explanation": "Soul and body are distinct; soul is the true self"
+      },
+      {
+        "principle": "Philosophical Purification",
+        "explanation": "Philosophy purifies the soul by turning it toward eternal truths"
+      },
+      {
+        "principle": "Form Participation",
+        "explanation": "Physical things are imperfect copies of perfect Forms"
+      }
+    ]
+  },
+  {
+    "id": "republic",
+    "title": "Republic (Book I)",
+    "subtitle": "On Justice and the Just Life",
+    "year": "-375",
+    "type": "Socratic Dialogue",
+    "icon": "👑",
+    "summary": "Socrates' initial examination of justice, demonstrating the inadequacy of conventional definitions.",
+    "keyConcept": "What is justice?",
+    "keyConceptExplanation": "The fundamental question of how we should live and organize society",
+    "sections": [
+      {
+        "title": "Cephalus and Traditional Justice",
+        "content": "The old man Cephalus defines justice as telling the truth and paying debts, but Socrates shows this leads to harmful consequences."
+      },
+      {
+        "title": "Polemarchus and Reciprocity",
+        "content": "Justice as helping friends and harming enemies is refuted because the just person should never harm anyone."
+      },
+      {
+        "title": "Thrasymachus and Power",
+        "content": "The sophist argues justice is merely the advantage of the stronger, but Socrates demonstrates that true rule serves the ruled."
+      },
+      {
+        "title": "The Challenge",
+        "content": "Why be just at all? Is the just life intrinsically better than the unjust life? This sets up the rest of the Republic."
+      }
+    ],
+    "funFacts": [
+      "Takes place at the house of Polemarchus in Piraeus",
+      "The only part of Republic that's purely Socratic",
+      "Thrasymachus represents the cynical view of politics",
+      "Sets up the need for the ideal state in later books"
+    ],
+    "keyPrinciples": [
+      {
+        "principle": "Definitional Priority",
+        "explanation": "We must define justice before determining if it's worthwhile"
+      },
+      {
+        "principle": "Never Harm",
+        "explanation": "Justice never involves harming others"
+      },
+      {
+        "principle": "Craft Analogy",
+        "explanation": "Just rule, like any craft, serves its proper object"
+      }
+    ]
+  },
+  {
+    "id": "laches",
+    "title": "Laches",
+    "subtitle": "On Courage",
+    "year": "-380",
+    "type": "Socratic Dialogue",
+    "icon": "⚔️",
+    "summary": "Socrates examines the nature of courage with two Athenian generals, revealing the complexity of this virtue.",
+    "keyConcept": "What is courage?",
+    "keyConceptExplanation": "The investigation of whether courage can be defined and taught",
+    "sections": [
+      {
+        "title": "Military Education",
+        "content": "Two fathers ask Socrates whether their sons should learn armed combat. This leads to questions about courage and virtue."
+      },
+      {
+        "title": "Laches' Definition",
+        "content": "The general defines courage as standing firm in battle, but Socrates shows this is too narrow and sometimes foolish."
+      },
+      {
+        "title": "Nicias and Knowledge",
+        "content": "The other general defines courage as knowledge of what to fear and what to dare, leading to paradoxes about virtue."
+      },
+      {
+        "title": "The Unity of Virtue",
+        "content": "If courage is knowledge of good and evil in danger, it becomes identical to all virtue, raising questions about virtue's unity."
+      }
+    ],
+    "funFacts": [
+      "Features two real Athenian generals who later died in battle",
+      "Explores whether virtue can be taught through skills training",
+      "Connects courage to the broader question of moral education",
+      "Shows Socrates' method applied to practical concerns"
+    ],
+    "keyPrinciples": [
+      {
+        "principle": "Knowledge and Virtue",
+        "explanation": "Virtue may be fundamentally a form of knowledge"
+      },
+      {
+        "principle": "Unity of Virtue",
+        "explanation": "All virtues may be aspects of a single excellence"
+      },
+      {
+        "principle": "Practical Wisdom",
+        "explanation": "True courage requires understanding good and evil"
+      }
+    ]
+  },
+  {
+    "id": "charmides",
+    "title": "Charmides",
+    "subtitle": "On Temperance",
+    "year": "-380",
+    "type": "Socratic Dialogue",
+    "icon": "🧘",
+    "summary": "Socrates investigates the nature of temperance or self-control with young Charmides and his guardian Critias.",
+    "keyConcept": "What is temperance (sophrosyne)?",
+    "keyConceptExplanation": "The virtue of self-control, moderation, and knowing oneself",
+    "sections": [
+      {
+        "title": "Beauty and Virtue",
+        "content": "Charmides is praised for physical beauty, but Socrates asks whether his soul is equally beautiful through temperance."
+      },
+      {
+        "title": "Quietness and Moderation",
+        "content": "Charmides first defines temperance as doing things quietly and slowly, but Socrates shows this doesn't capture the virtue."
+      },
+      {
+        "title": "Shame and Self-Knowledge",
+        "content": "Temperance is redefined as modesty or shame, then as 'knowing oneself' - connecting to the Delphic maxim."
+      },
+      {
+        "title": "Knowledge of Knowledge",
+        "content": "Critias suggests temperance is knowledge of what one knows and doesn't know, but this leads to logical puzzles."
+      }
+    ],
+    "funFacts": [
+      "Charmides was Plato's uncle and later became one of the Thirty Tyrants",
+      "Critias was also among the Thirty Tyrants who terrorized Athens",
+      "Connects temperance to the Delphic inscription 'Know Thyself'",
+      "Shows the political implications of Socratic questioning"
+    ],
+    "keyPrinciples": [
+      {
+        "principle": "Self-Knowledge",
+        "explanation": "Temperance involves understanding one's own limitations"
+      },
+      {
+        "principle": "Moral Beauty",
+        "explanation": "True beauty lies in the virtue of the soul, not physical appearance"
+      },
+      {
+        "principle": "Reflective Virtue",
+        "explanation": "Some virtues involve thinking about thinking itself"
+      }
+    ]
+  },
+  {
+    "id": "lysis",
+    "title": "Lysis",
+    "subtitle": "On Friendship",
+    "year": "-380",
+    "type": "Socratic Dialogue",
+    "icon": "🤝",
+    "summary": "Socrates examines the nature of friendship with two young men, exploring what draws people together.",
+    "keyConcept": "What is friendship (philia)?",
+    "keyConceptExplanation": "The investigation into the nature of love, attraction, and human bonds",
+    "sections": [
+      {
+        "title": "Parental Love",
+        "content": "Socrates questions whether parents truly love their children if they restrict their freedom, introducing puzzles about love and benefit."
+      },
+      {
+        "title": "Like Attracts Like",
+        "content": "Do friends love each other because they are similar? But then evil people should be friends with evil people."
+      },
+      {
+        "title": "Opposites Attract",
+        "content": "Perhaps friendship comes from difference and need? But this makes friendship based on utility rather than genuine affection."
+      },
+      {
+        "title": "The First Beloved",
+        "content": "All friendship may aim at some ultimate good that we truly love, raising questions about the nature of this highest object."
+      }
+    ],
+    "funFacts": [
+      "Features young boys Lysis and Menexenus as main interlocutors",
+      "Explores both eros (passionate love) and philia (friendship)",
+      "Ends in aporia (puzzlement) like many early dialogues",
+      "Influenced later theories of friendship in Aristotle and others"
+    ],
+    "keyPrinciples": [
+      {
+        "principle": "Love and Goodness",
+        "explanation": "We ultimately love things because of their connection to the good"
+      },
+      {
+        "principle": "Neither Like nor Unlike",
+        "explanation": "Simple theories of attraction fail to capture friendship's complexity"
+      },
+      {
+        "principle": "Unconscious Desire",
+        "explanation": "We may not understand what we truly seek in relationships"
+      }
+    ]
+  },
+  {
+    "id": "protagoras",
+    "title": "Protagoras",
+    "subtitle": "On Virtue and Knowledge",
+    "year": "-380",
+    "type": "Socratic Dialogue",
+    "icon": "🎭",
+    "summary": "Socrates debates the great sophist Protagoras about whether virtue can be taught and the nature of moral knowledge.",
+    "keyConcept": "Can virtue be taught?",
+    "keyConceptExplanation": "If virtue is knowledge, it can be taught; if it's natural or given by gods, it cannot",
+    "sections": [
+      {
+        "title": "The Great Sophist",
+        "content": "Protagoras claims he can teach virtue and make people better citizens, but Socrates questions whether virtue is teachable."
+      },
+      {
+        "title": "The Unity of Virtue",
+        "content": "Are courage, temperance, justice, and piety separate virtues or aspects of one thing? Their relationship remains puzzling."
+      },
+      {
+        "title": "Virtue as Knowledge",
+        "content": "Socrates argues that all virtue is knowledge - no one does wrong willingly, only from ignorance of what is truly good."
+      },
+      {
+        "title": "The Hedonistic Calculus",
+        "content": "Even if we pursue pleasure, we need knowledge to measure and compare pleasures and pains accurately."
+      }
+    ],
+    "funFacts": [
+      "Features the most famous sophist of the age",
+      "Contains Socrates' analysis of a poem by Simonides",
+      "Presents the paradox that virtue seems both teachable and unteachable",
+      "Shows Socrates engaging with professional educators"
+    ],
+    "keyPrinciples": [
+      {
+        "principle": "No One Errs Willingly",
+        "explanation": "All wrongdoing stems from ignorance of the true good"
+      },
+      {
+        "principle": "Virtue is Knowledge",
+        "explanation": "If we truly know what is good, we will necessarily do it"
+      },
+      {
+        "principle": "Measurement of Values",
+        "explanation": "Practical wisdom involves accurately measuring goods and evils"
+      }
+    ]
+  },
+  {
+    "id": "gorgias",
+    "title": "Gorgias",
+    "subtitle": "On Rhetoric and Justice",
+    "year": "-380",
+    "type": "Socratic Dialogue",
+    "icon": "🎤",
+    "summary": "Socrates challenges the sophist Gorgias and his followers about the value of rhetoric versus philosophy.",
+    "keyConcept": "It is better to suffer injustice than to commit it",
+    "keyConceptExplanation": "Wrongdoing harms the soul more than being wronged harms the body",
+    "sections": [
+      {
+        "title": "The Power of Rhetoric",
+        "content": "Gorgias boasts that rhetoric is the greatest art because it can persuade people about anything, giving orators political power."
+      },
+      {
+        "title": "Might Makes Right",
+        "content": "Callicles argues that conventional morality is created by the weak to restrain the strong; natural law favors the powerful."
+      },
+      {
+        "title": "The Disciplined Soul",
+        "content": "Socrates compares the soul to a jar that must be filled properly; an undisciplined soul is like a leaky vessel."
+      },
+      {
+        "title": "The Final Judgment",
+        "content": "Socrates ends with a myth about judgment after death, where souls are evaluated based on justice, not worldly success."
+      }
+    ],
+    "funFacts": [
+      "Gorgias was a real historical figure and famous orator",
+      "Callicles may represent Nietzschean 'master morality'",
+      "Contains Socrates' most extended critique of rhetoric",
+      "Ends with one of Plato's earliest eschatological myths"
+    ],
+    "keyPrinciples": [
+      {
+        "principle": "Soul over Body",
+        "explanation": "What affects the soul matters more than physical consequences"
+      },
+      {
+        "principle": "Justice as Health",
+        "explanation": "Justice is to the soul what health is to the body"
+      },
+      {
+        "principle": "Philosophy over Rhetoric",
+        "explanation": "Seeking truth matters more than persuading others"
+      }
+    ]
+  },
+  {
+    "id": "socratic_method",
+    "title": "The Socratic Method",
+    "subtitle": "The Art of Questioning",
+    "year": "-400",
+    "type": "Philosophical Technique",
+    "icon": "❓",
+    "summary": "Socrates' distinctive approach to philosophy through systematic questioning and cross-examination.",
+    "keyConcept": "Elenchus (Cross-examination)",
+    "keyConceptExplanation": "Testing beliefs through rigorous questioning to expose contradictions and ignorance",
+    "sections": [
+      {
+        "title": "The Question, Not the Answer",
+        "content": "Socrates rarely provides definitive answers, instead asking questions that reveal the complexity and contradictions in common beliefs."
+      },
+      {
+        "title": "The Refutation",
+        "content": "Through systematic questioning, Socrates shows that people's confident beliefs often lead to logical contradictions."
+      },
+      {
+        "title": "Aporia and Humility",
+        "content": "The method typically ends in aporia (puzzlement), showing that we know less than we thought and need to keep searching."
+      },
+      {
+        "title": "The Midwife of Ideas",
+        "content": "Like his mother who was a midwife, Socrates helps others give birth to ideas they already possess but haven't articulated."
+      }
+    ],
+    "funFacts": [
+      "Still used in law schools as the 'Socratic method'",
+      "Forms the basis of critical thinking education",
+      "Can be frustrating because it rarely provides clear answers",
+      "Socrates claimed to be intellectually sterile - he could only help others"
+    ],
+    "keyPrinciples": [
+      {
+        "principle": "Question Everything",
+        "explanation": "No belief should be accepted without examination"
+      },
+      {
+        "principle": "Expose Contradictions",
+        "explanation": "Reveal the logical inconsistencies in people's belief systems"
+      },
+      {
+        "principle": "Intellectual Humility",
+        "explanation": "Recognize the limits of human knowledge"
+      }
+    ]
+  },
+  {
+    "id": "know_thyself",
+    "title": "Know Thyself",
+    "subtitle": "The Delphic Maxim",
+    "year": "-400",
+    "type": "Philosophical Principle",
+    "icon": "🪞",
+    "summary": "Socrates' interpretation and application of the famous inscription at the Temple of Apollo at Delphi.",
+    "keyConcept": "Self-knowledge as wisdom",
+    "keyConceptExplanation": "Understanding one's own ignorance and limitations is the beginning of wisdom",
+    "sections": [
+      {
+        "title": "The Oracle's Message",
+        "content": "When told he was the wisest person, Socrates interpreted this to mean he alone knew that he knew nothing."
+      },
+      {
+        "title": "Intellectual Humility",
+        "content": "True self-knowledge involves recognizing the limits of one's knowledge and the vastness of one's ignorance."
+      },
+      {
+        "title": "The Care of the Soul",
+        "content": "Knowing oneself means understanding that the soul's virtue matters more than bodily goods or external possessions."
+      },
+      {
+        "title": "Moral Self-Examination",
+        "content": "We must constantly examine our beliefs, values, and actions to ensure they align with virtue and truth."
+      }
+    ],
+    "funFacts": [
+      "The maxim was inscribed on Apollo's temple at Delphi",
+      "Socrates gave it a revolutionary new interpretation",
+      "Influenced centuries of philosophical self-reflection",
+      "Connected to his claim that 'the unexamined life is not worth living'"
+    ],
+    "keyPrinciples": [
+      {
+        "principle": "Socratic Ignorance",
+        "explanation": "Knowing that you don't know is the first step to wisdom"
+      },
+      {
+        "principle": "Moral Priority",
+        "explanation": "Self-knowledge reveals that virtue is more important than external goods"
+      },
+      {
+        "principle": "Constant Examination",
+        "explanation": "Self-knowledge requires ongoing reflection and questioning"
+      }
+    ]
+  },
+  {
+    "id": "virtue_is_knowledge",
+    "title": "Virtue is Knowledge",
+    "subtitle": "The Socratic Paradox",
+    "year": "-400",
+    "type": "Ethical Theory",
+    "icon": "💡",
+    "summary": "Socrates' controversial claim that all virtue is knowledge and that no one does wrong willingly.",
+    "keyConcept": "No one errs willingly",
+    "keyConceptExplanation": "All wrongdoing stems from ignorance; if people truly knew what was good, they would do it",
+    "sections": [
+      {
+        "title": "Knowledge and Action",
+        "content": "If we truly know what is good for us, we will necessarily pursue it. Evil actions come from false beliefs about what is good."
+      },
+      {
+        "title": "The Unity of Virtue",
+        "content": "All virtues may be forms of knowledge about good and evil. Courage, temperance, and justice are aspects of moral wisdom."
+      },
+      {
+        "title": "Teachability of Virtue",
+        "content": "If virtue is knowledge, it should be teachable like other forms of knowledge, yet good parents don't always have good children."
+      },
+      {
+        "title": "Weakness of Will Problem",
+        "content": "How can people know what's right but do what's wrong? Socrates denies this happens - apparent weakness stems from ignorance."
+      }
+    ],
+    "funFacts": [
+      "This view seems to contradict common experience of moral struggle",
+      "Influenced later intellectualist theories of ethics",
+      "Aristotle criticized it as overly rationalistic",
+      "Still debated in moral psychology today"
+    ],
+    "keyPrinciples": [
+      {
+        "principle": "Moral Intellectualism",
+        "explanation": "Right action follows automatically from right knowledge"
+      },
+      {
+        "principle": "Unity of Virtue",
+        "explanation": "All virtues are fundamentally the same - knowledge of good and evil"
+      },
+      {
+        "principle": "Optimism about Human Nature",
+        "explanation": "People are naturally good; they only err from ignorance"
+      }
+    ]
+  },
+  {
+    "id": "the_divine_sign",
+    "title": "The Divine Sign",
+    "subtitle": "Socrates' Daimonion",
+    "year": "-400",
+    "type": "Religious Experience",
+    "icon": "👻",
+    "summary": "Socrates' claim to receive divine guidance through an inner voice that warned him against certain actions.",
+    "keyConcept": "The Daimonion",
+    "keyConceptExplanation": "A divine sign that never tells Socrates what to do, but warns him when he's about to err",
+    "sections": [
+      {
+        "title": "The Inner Voice",
+        "content": "Since childhood, Socrates experienced an inner voice that would warn him not to do certain things, never commanding positive action."
+      },
+      {
+        "title": "Divine Mission",
+        "content": "Socrates believed his philosophical mission was divinely ordained, making him a servant of the god Apollo."
+      },
+      {
+        "title": "Not Traditional Religion",
+        "content": "His religious views differed from conventional Greek religion, leading to charges of introducing new gods and corrupting youth."
+      },
+      {
+        "title": "Philosophical Implications",
+        "content": "The daimonion represents the importance of inner moral guidance and the connection between philosophy and religious experience."
+      }
+    ],
+    "funFacts": [
+      "Part of what led to charges of impiety against him",
+      "Described as different from madness or epilepsy",
+      "Never gave positive commands, only warnings",
+      "Influenced later concepts of conscience and inner guidance"
+    ],
+    "keyPrinciples": [
+      {
+        "principle": "Divine Guidance",
+        "explanation": "Humans can receive moral guidance from divine sources"
+      },
+      {
+        "principle": "Individual Revelation",
+        "explanation": "Religious experience can be personal and immediate"
+      },
+      {
+        "principle": "Philosophy as Service",
+        "explanation": "Philosophical inquiry serves divine purposes"
+      }
+    ]
+  },
+  {
+    "id": "socratic_irony",
+    "title": "Socratic Irony",
+    "subtitle": "The Pretense of Ignorance",
+    "year": "-400",
+    "type": "Rhetorical Technique",
+    "icon": "😏",
+    "summary": "Socrates' practice of pretending to be ignorant while exposing the ignorance of others who claim knowledge.",
+    "keyConcept": "Ironic profession of ignorance",
+    "keyConceptExplanation": "Claiming to know nothing while demonstrating others know even less",
+    "sections": [
+      {
+        "title": "The Wise Teacher",
+        "content": "Socrates approaches supposed experts as a humble student, asking them to teach him what they claim to know."
+      },
+      {
+        "title": "Exposing Ignorance",
+        "content": "Through seemingly innocent questions, Socrates reveals that the 'teachers' cannot explain their beliefs coherently."
+      },
+      {
+        "title": "Genuine vs. Feigned Ignorance",
+        "content": "Scholars debate whether Socrates' ignorance is genuine humility or a deliberate technique to confound opponents."
+      },
+      {
+        "title": "The Educational Function",
+        "content": "Irony serves to humble the arrogant and encourage genuine inquiry rather than confident assertion."
+      }
+    ],
+    "funFacts": [
+      "Made Socrates both beloved and hated in Athens",
+      "Influenced literary uses of irony ever since",
+      "Some thought he was mocking them rather than genuinely seeking truth",
+      "Part of what made him the 'gadfly' of Athens"
+    ],
+    "keyPrinciples": [
+      {
+        "principle": "Humble Inquiry",
+        "explanation": "Approach learning with genuine humility and curiosity"
+      },
+      {
+        "principle": "Expose False Knowledge",
+        "explanation": "Reveal the emptiness of confident but unfounded claims"
+      },
+      {
+        "principle": "Pedagogical Tool",
+        "explanation": "Irony can be an effective teaching method"
+      }
+    ]
+  }
+]

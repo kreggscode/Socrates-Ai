@@ -1,0 +1,902 @@
+[
+  {
+    "id": "apology",
+    "title": "The Apology",
+    "year": "-399",
+    "publication": "Apology (by Plato)",
+    "icon": "⚖️",
+    "summary": "Socrates' defense speech at his trial, where he explains his philosophical mission and accepts his death sentence rather than abandoning his principles.",
+    "openingQuote": "The unexamined life is not worth living.",
+    "mainThemes": [
+      "Philosophical Mission",
+      "Wisdom and Ignorance",
+      "Moral Courage",
+      "Divine Calling"
+    ],
+    "keyPoints": [
+      {
+        "title": "The Oracle's Wisdom",
+        "content": "When told by the Oracle at Delphi that he was the wisest man, Socrates discovered through questioning others that his wisdom lay in knowing that he knew nothing, while others falsely believed they possessed knowledge."
+      },
+      {
+        "title": "The Gadfly of Athens",
+        "content": "Socrates compared himself to a gadfly sent by God to sting the lazy horse of Athens into action, arousing, persuading, and reproaching citizens to examine their lives and pursue virtue."
+      },
+      {
+        "title": "Wealth and Excellence",
+        "content": "He argued that wealth does not bring about excellence, but excellence makes wealth and everything else good for people, both individually and collectively."
+      },
+      {
+        "title": "Fear of Death",
+        "content": "Socrates maintained that no one knows whether death may not be the greatest of all blessings, yet people fear it as if they knew it was the greatest of evils."
+      }
+    ],
+    "controversialAspects": [
+      "His claim to divine mission was seen as impious by his accusers",
+      "His persistent questioning was viewed as corrupting the youth",
+      "His apparent arrogance in claiming to be the wisest through ignorance"
+    ],
+    "relevanceToday": [
+      "Foundation of critical thinking and philosophical inquiry",
+      "Model for intellectual honesty and moral courage",
+      "Inspiration for civil disobedience and principled resistance",
+      "Basis for Socratic method in education"
+    ],
+    "closingThought": "\"You will not easily find another like me, and therefore I would advise you to spare me.\""
+  },
+  {
+    "id": "socratic_method",
+    "title": "The Socratic Method",
+    "year": "-430",
+    "publication": "Various Platonic Dialogues",
+    "icon": "❓",
+    "summary": "Socrates' revolutionary approach to learning through systematic questioning and dialogue, designed to expose ignorance and lead toward truth.",
+    "openingQuote": "I cannot teach anybody anything. I can only make them think.",
+    "mainThemes": [
+      "Dialectical Inquiry",
+      "Elenchus (Refutation)",
+      "Maieutic Method",
+      "Pursuit of Truth"
+    ],
+    "keyPoints": [
+      {
+        "title": "The Art of Questioning",
+        "content": "Through systematic questioning, Socrates exposed the contradictions and gaps in people's beliefs, showing that what they thought they knew was often based on assumption rather than genuine understanding."
+      },
+      {
+        "title": "Intellectual Midwifery",
+        "content": "Like his mother who was a midwife, Socrates claimed to help others give birth to ideas that were already within them, drawing out knowledge through careful questioning rather than imposing answers."
+      },
+      {
+        "title": "Exposing False Knowledge",
+        "content": "The method aimed to strip away false beliefs and pretensions to knowledge, creating a state of productive ignorance that could serve as the foundation for genuine learning."
+      },
+      {
+        "title": "Collaborative Inquiry",
+        "content": "The Socratic method emphasized dialogue and shared inquiry rather than lecture, making learning an active, participatory process between teacher and student."
+      }
+    ],
+    "controversialAspects": [
+      "Critics argued it was destructive rather than constructive",
+      "Some saw it as a form of intellectual bullying or showing off",
+      "It could lead to endless questioning without reaching conclusions"
+    ],
+    "relevanceToday": [
+      "Fundamental teaching method in law schools and universities",
+      "Basis for critical thinking and analytical skills",
+      "Used in therapy and counseling to promote self-discovery",
+      "Essential tool for scientific and philosophical inquiry"
+    ],
+    "closingThought": "\"The only true wisdom is in knowing you know nothing.\""
+  },
+  {
+    "id": "virtue_as_knowledge",
+    "title": "Virtue as Knowledge",
+    "year": "-430",
+    "publication": "Various Platonic Dialogues",
+    "icon": "📚",
+    "summary": "Socrates' revolutionary claim that virtue is a form of knowledge and that no one does wrong willingly - all vice stems from ignorance.",
+    "openingQuote": "No one does wrong voluntarily.",
+    "mainThemes": [
+      "Moral Intellectualism",
+      "Unity of Virtues",
+      "Knowledge and Action",
+      "Moral Psychology"
+    ],
+    "keyPoints": [
+      {
+        "title": "Vice as Ignorance",
+        "content": "Socrates argued that all wrongdoing stems from ignorance - if people truly knew what was good, they would naturally act virtuously. Evil actions result from mistaken beliefs about what is beneficial."
+      },
+      {
+        "title": "The Unity of Virtues",
+        "content": "All virtues (courage, justice, temperance, piety) are ultimately forms of knowledge or wisdom. Someone who possesses one virtue in its true form possesses them all."
+      },
+      {
+        "title": "Knowledge Compels Action",
+        "content": "Unlike mere opinion or belief, true knowledge of good and evil necessarily leads to right action. One cannot truly know the good and choose evil."
+      },
+      {
+        "title": "The Teachability Problem",
+        "content": "If virtue is knowledge, it should be teachable, yet virtuous parents don't always have virtuous children. This paradox troubled Socrates and highlighted the complexity of moral education."
+      }
+    ],
+    "controversialAspects": [
+      "The theory seems to deny the possibility of weakness of will (akrasia)",
+      "It appears overly intellectualist and ignores emotions and desires",
+      "The claim that no one does wrong voluntarily seems counterintuitive"
+    ],
+    "relevanceToday": [
+      "Debates in moral psychology about the relationship between reason and action",
+      "Educational approaches emphasizing moral reasoning",
+      "Discussions about criminal justice and rehabilitation",
+      "Cognitive behavioral therapy's focus on changing thought patterns"
+    ],
+    "closingThought": "\"Virtue is knowledge, and those who know the right will act rightly.\""
+  },
+  {
+    "id": "know_thyself",
+    "title": "Know Thyself (Self-Knowledge)",
+    "year": "-430",
+    "publication": "Various Platonic Dialogues",
+    "icon": "🔍",
+    "summary": "Socrates' emphasis on self-examination and self-knowledge as the foundation of wisdom and the key to living a virtuous life.",
+    "openingQuote": "Know thyself.",
+    "mainThemes": [
+      "Self-Examination",
+      "Moral Self-Awareness",
+      "The Care of the Soul",
+      "Philosophical Life"
+    ],
+    "keyPoints": [
+      {
+        "title": "The Examined Life",
+        "content": "Socrates declared that 'the unexamined life is not worth living.' He believed that regular self-reflection and questioning of one's beliefs and actions was essential for human flourishing."
+      },
+      {
+        "title": "Care of the Soul",
+        "content": "He argued that people should be more concerned with the health of their souls than with wealth, reputation, or physical pleasures. The soul's well-being depends on virtue and knowledge."
+      },
+      {
+        "title": "Recognizing Ignorance",
+        "content": "True self-knowledge begins with recognizing the extent of one's ignorance. This humble acknowledgment creates the foundation for genuine learning and wisdom."
+      },
+      {
+        "title": "Moral Responsibility",
+        "content": "Self-knowledge leads to greater moral responsibility, as understanding one's own character, motivations, and limitations enables better ethical choices."
+      }
+    ],
+    "controversialAspects": [
+      "The emphasis on self-examination could be seen as narcissistic or self-obsessed",
+      "Some argue it leads to paralysis by analysis rather than action",
+      "The focus on individual soul-care might neglect social responsibilities"
+    ],
+    "relevanceToday": [
+      "Foundation of modern psychology and therapy",
+      "Mindfulness and meditation practices",
+      "Self-help and personal development movements",
+      "Leadership development and emotional intelligence"
+    ],
+    "closingThought": "\"The greatest way to live with honor in this world is to be what we pretend to be.\""
+  },
+  {
+    "id": "euthyphro_dilemma",
+    "title": "The Euthyphro Dilemma",
+    "year": "-399",
+    "publication": "Euthyphro (by Plato)",
+    "icon": "⚡",
+    "summary": "Socrates' famous challenge to divine command theory, asking whether something is pious because the gods love it, or whether the gods love it because it is pious.",
+    "openingQuote": "Is what is holy holy because the gods approve it, or do they approve it because it is holy?",
+    "mainThemes": [
+      "Divine Command Theory",
+      "Nature of Piety",
+      "Moral Authority",
+      "Religious Philosophy"
+    ],
+    "keyPoints": [
+      {
+        "title": "The Dilemma's Structure",
+        "content": "Either actions are good because God commands them (making morality arbitrary), or God commands them because they are good (making God subject to moral standards beyond himself)."
+      },
+      {
+        "title": "Challenge to Religious Authority",
+        "content": "The dilemma questions whether moral standards derive their authority from divine will or from independent moral truths that even gods must acknowledge."
+      },
+      {
+        "title": "Search for Essence",
+        "content": "Rather than accepting examples of pious acts, Socrates sought the essential nature of piety itself - what makes all pious acts pious."
+      },
+      {
+        "title": "Method in Action",
+        "content": "The dialogue demonstrates the Socratic method by showing how confident claims about moral concepts dissolve under careful examination."
+      }
+    ],
+    "controversialAspects": [
+      "Challenges traditional religious authority and divine command theory",
+      "Could be seen as undermining faith and religious belief",
+      "The dilemma may present a false choice between two options"
+    ],
+    "relevanceToday": [
+      "Central debate in philosophy of religion and ethics",
+      "Discussions about the relationship between religion and morality",
+      "Legal and political debates about religious authority",
+      "Bioethics and moral decision-making in secular contexts"
+    ],
+    "closingThought": "\"We must follow the argument wherever it leads.\""
+  },
+  {
+    "id": "immortal_soul",
+    "title": "The Immortality of the Soul",
+    "year": "-399",
+    "publication": "Phaedo (by Plato)",
+    "icon": "✨",
+    "summary": "Socrates' arguments for the soul's immortality and his calm acceptance of death as either a dreamless sleep or a journey to meet great souls.",
+    "openingQuote": "The one aim of those who practice philosophy in the right way is death and dying.",
+    "mainThemes": [
+      "Soul and Body Dualism",
+      "Death and Afterlife",
+      "Philosophical Preparation",
+      "Eternal Truth"
+    ],
+    "keyPoints": [
+      {
+        "title": "The Soul's Purification",
+        "content": "Philosophy is the practice of separating the soul from bodily pleasures and distractions, preparing it for its eventual separation at death."
+      },
+      {
+        "title": "Death as Liberation",
+        "content": "Death frees the soul from the limitations and deceptions of the physical world, allowing it to perceive truth more clearly in its pure, disembodied state."
+      },
+      {
+        "title": "The Argument from Recollection",
+        "content": "Our ability to recognize eternal truths (like mathematical concepts) suggests the soul existed before birth and will continue after death."
+      },
+      {
+        "title": "Fear and Hope",
+        "content": "Death is either a dreamless sleep (which is peaceful) or a journey to meet the great souls of the past - either option is preferable to living without philosophy."
+      }
+    ],
+    "controversialAspects": [
+      "The arguments for immortality are not considered conclusive by modern standards",
+      "The stark dualism between soul and body is philosophically problematic",
+      "The view could be seen as devaluing physical life and the material world"
+    ],
+    "relevanceToday": [
+      "Discussions about consciousness and personal identity",
+      "Debates about mind-body dualism in philosophy of mind",
+      "Religious and spiritual beliefs about afterlife",
+      "Bioethical debates about death and dying"
+    ],
+    "closingThought": "\"The hour of departure has arrived, and we go our ways - I to die, and you to live. Which is better God only knows.\""
+  },
+  {
+    "id": "justice_and_soul",
+    "title": "Justice and the Soul",
+    "year": "-380",
+    "publication": "Republic (by Plato)",
+    "icon": "⚖️",
+    "summary": "Socrates' exploration of justice as harmony within the soul, where reason rules over emotion and desire, creating inner order and peace.",
+    "openingQuote": "Justice is having and doing what is one's own and what belongs to one's self.",
+    "mainThemes": [
+      "Tripartite Soul",
+      "Inner Harmony",
+      "Moral Psychology",
+      "Political Philosophy"
+    ],
+    "keyPoints": [
+      {
+        "title": "The Three Parts of the Soul",
+        "content": "The soul consists of reason (logos), spirit/emotion (thumos), and appetite/desire (epithumia). Justice occurs when reason rules over the other two parts."
+      },
+      {
+        "title": "Individual and State",
+        "content": "The structure of the soul mirrors the structure of the ideal state - both achieve justice through proper hierarchy and each part fulfilling its function."
+      },
+      {
+        "title": "Justice as Health",
+        "content": "Just as physical health is harmony among bodily parts, justice is harmony among the soul's parts. Injustice is like a disease that creates internal conflict."
+      },
+      {
+        "title": "The Philosopher King",
+        "content": "Those whose reason most perfectly rules their souls are best equipped to rule the state, as they understand justice both personally and politically."
+      }
+    ],
+    "controversialAspects": [
+      "The rigid hierarchy of soul parts may oversimplify human psychology",
+      "The analogy between individual and state justice is questionable",
+      "The ideal state described seems totalitarian and impractical"
+    ],
+    "relevanceToday": [
+      "Psychological theories about self-control and emotional regulation",
+      "Leadership development and moral character in politics",
+      "Debates about the relationship between personal and political ethics",
+      "Discussions about human nature and social organization"
+    ],
+    "closingThought": "\"The just man does not allow the several elements in his soul to usurp one another's functions.\""
+  },
+  {
+    "id": "love_and_beauty",
+    "title": "Love and the Ascent to Beauty",
+    "year": "-385",
+    "publication": "Symposium (by Plato)",
+    "icon": "💕",
+    "summary": "Socrates' teaching on love as a ladder ascending from physical attraction to spiritual beauty, ultimately reaching the Form of Beauty itself.",
+    "openingQuote": "Love is born into every human being; it calls back the halves of our original nature together.",
+    "mainThemes": [
+      "Platonic Love",
+      "Ascent to Beauty",
+      "Spiritual Development",
+      "Forms Theory"
+    ],
+    "keyPoints": [
+      {
+        "title": "Love as Lack and Desire",
+        "content": "Love (eros) is neither beautiful nor ugly, neither wise nor ignorant, but something in between - it is the desire for what one lacks, driving the soul toward completion."
+      },
+      {
+        "title": "The Ladder of Love",
+        "content": "Love begins with attraction to physical beauty, ascends to appreciation of spiritual beauty, then to love of knowledge and wisdom, finally reaching the eternal Form of Beauty."
+      },
+      {
+        "title": "Diotima's Teaching",
+        "content": "Through the priestess Diotima, Socrates learns that love is fundamentally about procreation - either physical offspring or spiritual creations like ideas and institutions."
+      },
+      {
+        "title": "Immortality Through Creation",
+        "content": "Since humans cannot achieve personal immortality, they seek it through creating something lasting - children, works of art, laws, or philosophical insights."
+      }
+    ],
+    "controversialAspects": [
+      "The hierarchy of loves seems to devalue physical and emotional relationships",
+      "The theory may promote a kind of spiritual elitism",
+      "The focus on male-male relationships reflects ancient Greek social norms"
+    ],
+    "relevanceToday": [
+      "Psychology of love and relationships",
+      "Aesthetic theory and philosophy of art",
+      "Spiritual and religious development practices",
+      "Educational theory about motivation and inspiration"
+    ],
+    "closingThought": "\"Love is the joy of the good, the wonder of the wise, the amazement of the Gods.\""
+  },
+  {
+    "id": "courage_definition",
+    "title": "The Nature of Courage",
+    "year": "-390",
+    "publication": "Laches (by Plato)",
+    "icon": "🛡️",
+    "summary": "Socrates' investigation into the nature of courage, challenging conventional notions and seeking the essential knowledge that underlies true bravery.",
+    "openingQuote": "Courage is a sort of endurance of the soul.",
+    "mainThemes": [
+      "Moral Virtues",
+      "Knowledge and Courage",
+      "Military vs. Moral Bravery",
+      "Unity of Virtues"
+    ],
+    "keyPoints": [
+      {
+        "title": "Beyond Physical Bravery",
+        "content": "Courage is not merely standing firm in battle but involves wise endurance - knowing when to advance, when to retreat, and what is truly worth defending."
+      },
+      {
+        "title": "Courage as Knowledge",
+        "content": "True courage requires knowledge of what is truly fearful and what is truly hopeful, distinguishing between genuine threats and mere appearances."
+      },
+      {
+        "title": "Moral Courage",
+        "content": "The highest form of courage involves facing moral dangers - standing up for truth and justice even when it threatens one's reputation, livelihood, or life."
+      },
+      {
+        "title": "The Paradox of Learning Courage",
+        "content": "If courage is knowledge, it should be teachable, yet military training doesn't guarantee moral courage, and brave parents don't always have brave children."
+      }
+    ],
+    "controversialAspects": [
+      "The intellectualist view of courage seems to ignore emotional and instinctive aspects",
+      "The theory may not account for spontaneous acts of bravery",
+      "Some argue that courage can exist without full knowledge"
+    ],
+    "relevanceToday": [
+      "Military ethics and training",
+      "Moral education and character development",
+      "Leadership in crisis situations",
+      "Civil rights and social justice movements"
+    ],
+    "closingThought": "\"He is a man of courage who does not run away, but remains at his post and fights against the enemy.\""
+  },
+  {
+    "id": "temperance_wisdom",
+    "title": "Temperance and Self-Control",
+    "year": "-390",
+    "publication": "Charmides (by Plato)",
+    "icon": "🧘",
+    "summary": "Socrates' exploration of temperance (sophrosyne) as self-knowledge and self-control, essential for a well-ordered soul and virtuous life.",
+    "openingQuote": "Temperance is the knowledge of oneself.",
+    "mainThemes": [
+      "Self-Control",
+      "Moderation",
+      "Self-Knowledge",
+      "Harmony of Soul"
+    ],
+    "keyPoints": [
+      {
+        "title": "Temperance as Self-Knowledge",
+        "content": "True temperance involves knowing one's own limitations, capabilities, and proper place in the cosmic order - it is wisdom applied to oneself."
+      },
+      {
+        "title": "Mastery Over Desires",
+        "content": "Temperance enables rational control over bodily desires and emotions, ensuring that reason rather than appetite guides one's choices."
+      },
+      {
+        "title": "The Quiet Virtue",
+        "content": "Unlike courage which is displayed in action, temperance often manifests as restraint, quietness, and the ability to do one's own work without interfering with others."
+      },
+      {
+        "title": "Social Harmony",
+        "content": "When individuals practice temperance, society benefits from reduced conflict, as people are less likely to overstep boundaries or pursue excessive desires."
+      }
+    ],
+    "controversialAspects": [
+      "The emphasis on restraint might discourage healthy ambition and passion",
+      "The concept seems culturally specific to ancient Greek values",
+      "The connection between self-knowledge and self-control is not always clear"
+    ],
+    "relevanceToday": [
+      "Addiction treatment and recovery programs",
+      "Mindfulness and meditation practices",
+      "Financial planning and consumer behavior",
+      "Anger management and emotional regulation"
+    ],
+    "closingThought": "\"Nothing in excess - know thyself.\""
+  },
+  {
+    "id": "philosophical_ignorance",
+    "title": "Socratic Ignorance",
+    "year": "-430",
+    "publication": "Various Platonic Dialogues",
+    "icon": "🤷",
+    "summary": "Socrates' profound insight that true wisdom begins with recognizing the extent of one's ignorance, making intellectual humility the foundation of learning.",
+    "openingQuote": "I know that I know nothing.",
+    "mainThemes": [
+      "Intellectual Humility",
+      "Limits of Knowledge",
+      "Wonder and Inquiry",
+      "Philosophical Wisdom"
+    ],
+    "keyPoints": [
+      {
+        "title": "Learned Ignorance",
+        "content": "Socrates distinguished between simple ignorance (not knowing) and learned ignorance (knowing that one doesn't know). The latter is the beginning of wisdom."
+      },
+      {
+        "title": "The Oracle's Paradox",
+        "content": "When the Oracle declared Socrates wisest, he discovered his wisdom lay not in possessing knowledge but in recognizing his ignorance, unlike others who falsely believed they knew."
+      },
+      {
+        "title": "Wonder as Beginning",
+        "content": "Acknowledging ignorance creates wonder, and wonder is the beginning of philosophy. Only those who recognize their ignorance are motivated to seek truth."
+      },
+      {
+        "title": "Intellectual Arrogance as Barrier",
+        "content": "The greatest obstacle to learning is the false belief that one already knows. This intellectual arrogance prevents genuine inquiry and discovery."
+      }
+    ],
+    "controversialAspects": [
+      "Some see Socratic ignorance as false modesty or ironic posturing",
+      "The position could lead to skepticism and relativism",
+      "Critics argue it's paralyzing rather than productive"
+    ],
+    "relevanceToday": [
+      "Scientific methodology and peer review",
+      "Educational approaches emphasizing critical thinking",
+      "Combating misinformation and overconfidence bias",
+      "Leadership development and decision-making under uncertainty"
+    ],
+    "closingThought": "\"The only true wisdom is in knowing you know nothing.\""
+  },
+  {
+    "id": "civil_disobedience",
+    "title": "Civil Disobedience and Laws",
+    "year": "-399",
+    "publication": "Crito (by Plato)",
+    "icon": "🏛️",
+    "summary": "Socrates' argument for obeying laws and accepting his death sentence, establishing principles for when and how to resist unjust authority.",
+    "openingQuote": "One must obey the commands of one's city and country, or persuade it as to the nature of justice.",
+    "mainThemes": [
+      "Legal Obligation",
+      "Social Contract",
+      "Moral Consistency",
+      "Civil Disobedience"
+    ],
+    "keyPoints": [
+      {
+        "title": "The Social Contract",
+        "content": "By choosing to live in Athens and benefit from its laws, Socrates had implicitly agreed to abide by those laws, even when they worked against his interests."
+      },
+      {
+        "title": "Persuasion Before Disobedience",
+        "content": "One should first attempt to persuade the city to change unjust laws through rational argument. Only when persuasion fails might disobedience be considered."
+      },
+      {
+        "title": "Consistency in Principles",
+        "content": "Having argued his entire life that one should never do wrong, Socrates refused to escape prison, as doing so would violate his principles and harm his soul."
+      },
+      {
+        "title": "Harm to the State",
+        "content": "Disobeying laws, even unjust ones, weakens the entire legal system and sets a dangerous precedent that could lead to social chaos."
+      }
+    ],
+    "controversialAspects": [
+      "His absolute obedience to law seems to preclude justified resistance",
+      "The social contract theory may not account for those born into a system",
+      "Some argue his position would support even tyrannical regimes"
+    ],
+    "relevanceToday": [
+      "Civil rights movements and peaceful resistance",
+      "Legal theory and constitutional law",
+      "Political obligation and citizenship duties",
+      "Conscientious objection and moral resistance"
+    ],
+    "closingThought": "\"It is better to suffer injustice than to commit it.\""
+  },
+  {
+    "id": "friendship_virtue",
+    "title": "Friendship and Virtue",
+    "year": "-385",
+    "publication": "Lysis (by Plato)",
+    "icon": "🤝",
+    "summary": "Socrates' investigation into the nature of friendship, exploring what draws people together and what constitutes genuine versus superficial friendship.",
+    "openingQuote": "Friendship is the only cement that will ever hold the world together.",
+    "mainThemes": [
+      "Philia",
+      "Love and Attraction",
+      "Virtue and Character",
+      "Human Relationships"
+    ],
+    "keyPoints": [
+      {
+        "title": "Friendship Based on Virtue",
+        "content": "The highest form of friendship is based on mutual recognition and love of virtue in each other, rather than mere utility or pleasure."
+      },
+      {
+        "title": "Like Attracts Like",
+        "content": "Socrates explores whether similar people naturally become friends, or whether opposites attract, ultimately suggesting that the good is what we all truly seek in friendship."
+      },
+      {
+        "title": "The Paradox of Need",
+        "content": "If we only befriend those who are useful to us, friendship seems selfish. But if we need nothing from friends, what motivates friendship at all?"
+      },
+      {
+        "title": "Friendship and Wisdom",
+        "content": "True friendship involves helping each other become better people, sharing in the pursuit of wisdom and virtue rather than just enjoying each other's company."
+      }
+    ],
+    "controversialAspects": [
+      "The high standard for virtue-based friendship may be unrealistic",
+      "The analysis seems to intellectualize what might be more emotional",
+      "The focus on virtue might neglect other important aspects of friendship"
+    ],
+    "relevanceToday": [
+      "Psychology of relationships and social bonding",
+      "Educational approaches to character development",
+      "Social network theory and community building",
+      "Moral development through peer relationships"
+    ],
+    "closingThought": "\"The greatest thing in the world is to know how to belong to oneself.\""
+  },
+  {
+    "id": "divine_mission",
+    "title": "The Divine Mission",
+    "year": "-399",
+    "publication": "Apology (by Plato)",
+    "icon": "⚡",
+    "summary": "Socrates' belief that he was called by the god to serve as Athens' philosophical gadfly, making his questioning and teaching a religious duty.",
+    "openingQuote": "God orders me to fulfill the philosopher's mission of searching into myself and other men.",
+    "mainThemes": [
+      "Divine Calling",
+      "Religious Duty",
+      "Philosophical Mission",
+      "Service to Community"
+    ],
+    "keyPoints": [
+      {
+        "title": "The God's Command",
+        "content": "Socrates believed his philosophical activity was commanded by the god, making it a religious duty that he could not abandon without impiety."
+      },
+      {
+        "title": "The Gadfly's Function",
+        "content": "Like a gadfly that stings a lazy horse into action, Socrates saw his role as arousing Athens from complacency and forcing citizens to examine their lives."
+      },
+      {
+        "title": "Service vs. Self-Interest",
+        "content": "His mission required sacrificing personal wealth and comfort for the greater good of awakening others to the pursuit of virtue and wisdom."
+      },
+      {
+        "title": "Uncompromising Dedication",
+        "content": "Even facing death, Socrates refused to abandon his mission, declaring he would continue questioning and teaching as long as he lived."
+      }
+    ],
+    "controversialAspects": [
+      "The claim to divine mission could be seen as arrogant or delusional",
+      "His constant questioning was seen by many as disruptive rather than beneficial",
+      "The religious nature of his philosophy conflicted with traditional Athenian piety"
+    ],
+    "relevanceToday": [
+      "Religious and spiritual calling in secular contexts",
+      "Social criticism and the role of public intellectuals",
+      "Whistleblowing and speaking truth to power",
+      "Educational reform and challenging conventional wisdom"
+    ],
+    "closingThought": "\"I shall never give up philosophy or stop exhorting you and pointing out the truth to any one of you whom I may meet.\""
+  },
+  {
+    "id": "daimonion",
+    "title": "The Daimonion (Inner Voice)",
+    "year": "-430",
+    "publication": "Various Platonic Dialogues",
+    "icon": "👁️",
+    "summary": "Socrates' mysterious inner voice or divine sign that would warn him against certain actions, serving as his moral and spiritual guide.",
+    "openingQuote": "The reason for this is something you have heard me mention before in many places—that I experience something divine and daimonic.",
+    "mainThemes": [
+      "Divine Sign",
+      "Inner Voice",
+      "Moral Guidance",
+      "Spiritual Experience"
+    ],
+    "keyPoints": [
+      {
+        "title": "The Restraining Voice",
+        "content": "The daimonion never told Socrates what to do, but only warned him against certain actions when he was about to make a mistake or take the wrong path."
+      },
+      {
+        "title": "From Childhood",
+        "content": "This divine sign had been with Socrates since childhood, serving as a constant moral compass and spiritual guide throughout his life."
+      },
+      {
+        "title": "Validation of Mission",
+        "content": "The daimonion's silence during his trial and philosophical activities confirmed to Socrates that he was following the right path, even unto death."
+      },
+      {
+        "title": "Personal vs. Universal",
+        "content": "While Socrates experienced this as a personal divine sign, he suggested that others might have similar inner voices if they learned to listen carefully."
+      }
+    ],
+    "controversialAspects": [
+      "The daimonion was used by accusers as evidence of introducing new gods",
+      "Modern readers might interpret it as psychological rather than divine",
+      "The selective nature of its guidance seems arbitrary"
+    ],
+    "relevanceToday": [
+      "Psychology of moral intuition and conscience",
+      "Spiritual practices of inner listening and discernment",
+      "Decision-making under uncertainty",
+      "The relationship between reason and intuition"
+    ],
+    "closingThought": "\"This sign, which is a kind of voice, first began to come to me when I was a child.\""
+  },
+  {
+    "id": "happiness_virtue",
+    "title": "Happiness and Virtue",
+    "year": "-380",
+    "publication": "Various Platonic Dialogues",
+    "icon": "😊",
+    "summary": "Socrates' argument that true happiness (eudaimonia) comes only from virtue and that the virtuous person cannot be truly harmed by external circumstances.",
+    "openingQuote": "No evil can happen to a good man, either in life or after death.",
+    "mainThemes": [
+      "Eudaimonia",
+      "Virtue and Happiness",
+      "Good vs. Goods",
+      "Invulnerability of the Soul"
+    ],
+    "keyPoints": [
+      {
+        "title": "Virtue as the Only True Good",
+        "content": "Health, wealth, reputation, and other external things are not goods in themselves but become good or bad depending on how they are used by virtue or vice."
+      },
+      {
+        "title": "The Invulnerable Soul",
+        "content": "The virtuous person's happiness cannot be destroyed by external misfortune because it depends on the condition of the soul, not on external circumstances."
+      },
+      {
+        "title": "Harm and the Soul",
+        "content": "The only real harm is damage to one's character or soul. Physical injury, loss of property, or even death cannot harm the essence of who we are."
+      },
+      {
+        "title": "The Paradox of Benefit",
+        "content": "It is better to suffer injustice than to commit it, because committing injustice harms the soul while suffering injustice (if borne virtuously) can strengthen character."
+      }
+    ],
+    "controversialAspects": [
+      "The view seems to minimize the reality of physical and emotional suffering",
+      "The claim that virtue guarantees happiness appears too optimistic",
+      "The position might justify ignoring material inequality and injustice"
+    ],
+    "relevanceToday": [
+      "Positive psychology and resilience research",
+      "Stoic philosophy and cognitive behavioral therapy",
+      "Debates about materialism and consumerism",
+      "Mental health and character development"
+    ],
+    "closingThought": "\"The really important thing is not to live, but to live well.\""
+  },
+  {
+    "id": "recollection_learning",
+    "title": "Learning as Recollection",
+    "year": "-380",
+    "publication": "Meno (by Plato)",
+    "icon": "🧠",
+    "summary": "Socrates' theory that learning is actually recollection of truths the soul already knows, demonstrated through teaching geometry to an untutored slave boy.",
+    "openingQuote": "The soul, then, as being immortal, and having been born again many times... has learned all things.",
+    "mainThemes": [
+      "Anamnesis",
+      "Innate Knowledge",
+      "Soul's Immortality",
+      "Educational Theory"
+    ],
+    "keyPoints": [
+      {
+        "title": "The Meno's Paradox",
+        "content": "How can we search for knowledge we don't have? If we don't know what we're looking for, how will we recognize it when we find it? Learning as recollection solves this paradox."
+      },
+      {
+        "title": "The Slave Boy Demonstration",
+        "content": "By asking the right questions, Socrates guides an untutored slave to discover geometric truths, suggesting the knowledge was already within him."
+      },
+      {
+        "title": "Mathematical Knowledge",
+        "content": "Our grasp of mathematical and logical truths seems to transcend sensory experience, suggesting these are eternal truths recalled by the immortal soul."
+      },
+      {
+        "title": "The Teacher's Role",
+        "content": "True teaching doesn't transfer information but awakens knowledge already present in the student, making the teacher a midwife rather than an authority."
+      }
+    ],
+    "controversialAspects": [
+      "The theory requires belief in the soul's pre-existence and reincarnation",
+      "Modern cognitive science explains learning differently through neural development",
+      "The examples may be limited to mathematical rather than empirical knowledge"
+    ],
+    "relevanceToday": [
+      "Educational theories about discovery-based learning",
+      "Debates about innate vs. learned knowledge in cognitive science",
+      "Constructivist approaches to teaching",
+      "Philosophy of mathematics and logical intuition"
+    ],
+    "closingThought": "\"What we call learning is really just recollection.\""
+  },
+  {
+    "id": "unity_of_virtues",
+    "title": "The Unity of Virtues",
+    "year": "-430",
+    "publication": "Protagoras (by Plato)",
+    "icon": "🔗",
+    "summary": "Socrates' controversial claim that all virtues are ultimately one - that courage, justice, temperance, and piety are different names for the same knowledge of good and evil.",
+    "openingQuote": "All virtues are one, and this one thing is knowledge.",
+    "mainThemes": [
+      "Virtue Theory",
+      "Moral Knowledge",
+      "Philosophical Psychology",
+      "Unity vs. Plurality"
+    ],
+    "keyPoints": [
+      {
+        "title": "Virtue as Single Knowledge",
+        "content": "Despite appearing as separate qualities, all virtues are forms of the same fundamental knowledge - understanding what is truly good and what is truly evil."
+      },
+      {
+        "title": "Impossible to Have One Without Others",
+        "content": "If someone truly possesses courage (knowledge of what is truly fearful), they must also possess justice, temperance, and piety, as these are all aspects of moral knowledge."
+      },
+      {
+        "title": "The Problem of Specialization",
+        "content": "People seem to excel in some virtues while lacking others (brave soldiers who are intemperate, just people who lack courage), which challenges the unity thesis."
+      },
+      {
+        "title": "Knowledge vs. Habit",
+        "content": "True virtue is knowledge that compels right action, not mere habituation or emotional disposition that might fail under pressure."
+      }
+    ],
+    "controversialAspects": [
+      "The theory conflicts with common experience of virtue specialization",
+      "It seems overly intellectualist, ignoring emotional and character aspects",
+      "The claim appears to make moral development unrealistically all-or-nothing"
+    ],
+    "relevanceToday": [
+      "Character education and moral development programs",
+      "Leadership training and ethical decision-making",
+      "Debates about moral expertise and wisdom",
+      "Integration of different ethical approaches in applied ethics"
+    ],
+    "closingThought": "\"Courage is knowledge of the fearful and the hopeful.\""
+  },
+  {
+    "id": "philosopher_midwife",
+    "title": "Philosophy as Midwifery",
+    "year": "-430",
+    "publication": "Theaetetus (by Plato)",
+    "icon": "👶",
+    "summary": "Socrates' comparison of his philosophical method to his mother's profession of midwifery - helping others give birth to ideas rather than generating them himself.",
+    "openingQuote": "My art of midwifery is in general like theirs; the only difference is that my patients are men, not women, and my concern is not with the body but with the soul.",
+    "mainThemes": [
+      "Maieutic Method",
+      "Educational Philosophy",
+      "Truth Discovery",
+      "Intellectual Humility"
+    ],
+    "keyPoints": [
+      {
+        "title": "Spiritual Midwifery",
+        "content": "Like his mother who helped women give birth to children, Socrates helps people give birth to ideas and insights that are already within them."
+      },
+      {
+        "title": "Barren but Skillful",
+        "content": "Just as his mother was past childbearing age but skilled in delivery, Socrates claims to be intellectually 'barren' but expert at helping others produce wisdom."
+      },
+      {
+        "title": "Testing the Offspring",
+        "content": "A midwife examines newborns to see if they're healthy; similarly, Socrates tests new ideas through questioning to see if they can survive rational scrutiny."
+      },
+      {
+        "title": "Divine Appointment",
+        "content": "God appointed Socrates to this role of intellectual midwifery, making it a sacred calling rather than just a teaching technique."
+      }
+    ],
+    "controversialAspects": [
+      "The claim of intellectual sterility might be false modesty",
+      "The method can seem manipulative or leading rather than neutral",
+      "Some argue Socrates does have his own philosophical doctrines"
+    ],
+    "relevanceToday": [
+      "Student-centered learning and discovery methods",
+      "Coaching and facilitation techniques",
+      "Therapeutic approaches that draw out client insights",
+      "Leadership development through questioning and reflection"
+    ],
+    "closingThought": "\"I cannot myself give birth to wisdom, and the common reproach is true, that, though I question others, I can myself bring nothing to light because there is no wisdom in me.\""
+  },
+  {
+    "id": "forms_theory",
+    "title": "The Theory of Forms (Introduction)",
+    "year": "-380",
+    "publication": "Various Platonic Dialogues",
+    "icon": "🔺",
+    "summary": "Socrates' introduction to the realm of eternal, perfect Forms that serve as the true reality behind the changing world of appearances.",
+    "openingQuote": "The Forms are the true reality, and the world we see is merely a shadow of that reality.",
+    "mainThemes": [
+      "Eternal Forms",
+      "True Reality",
+      "Knowledge vs. Opinion",
+      "Metaphysical Dualism"
+    ],
+    "keyPoints": [
+      {
+        "title": "Perfect vs. Imperfect",
+        "content": "Physical objects are imperfect copies of perfect Forms. A beautiful person participates in the Form of Beauty but is not Beauty itself."
+      },
+      {
+        "title": "Knowledge of Universals",
+        "content": "True knowledge is knowledge of the Forms - understanding Justice itself, Beauty itself, Good itself, rather than just particular just, beautiful, or good things."
+      },
+      {
+        "title": "The Divided Line",
+        "content": "Reality is divided into the visible world (images and physical objects) and the intelligible world (mathematical objects and Forms), with Forms being the highest reality."
+      },
+      {
+        "title": "Escape from the Cave",
+        "content": "Philosophy involves turning away from the world of shadows and appearances to contemplate the eternal Forms that are the source of all truth and reality."
+      }
+    ],
+    "controversialAspects": [
+      "The theory seems to devalue the physical world and empirical knowledge",
+      "The relationship between Forms and particular objects is unclear",
+      "Modern philosophy has largely rejected metaphysical dualism"
+    ],
+    "relevanceToday": [
+      "Mathematics and logical truth as universal and eternal",
+      "Debates about moral realism and objective values",
+      "Philosophy of science and the nature of natural laws",
+      "Religious and spiritual concepts of transcendent reality"
+    ],
+    "closingThought": "\"The real tragedy of life is when men are afraid of the light.\""
+  }
+]

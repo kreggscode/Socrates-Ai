@@ -1,0 +1,204 @@
+{
+  "name": "Socrates",
+  "title": "The Gadfly of Athens & Father of Moral Philosophy",
+  "birth": "c. 470 BCE",
+  "death": "399 BCE",
+  "birthplace": "Athens, Greece",
+  "nationality": "Greek",
+  
+  "summary": "Socrates was a foundational figure of Western philosophy whose relentless questioning transformed ethics and the pursuit of wisdom. He pioneered a method of inquiry that sought clear definitions and examined beliefs, placing virtue and the care of the soul above wealth, power, and reputation. Though he wrote nothing himself, his life and conversations—preserved by students—reoriented philosophy toward self-knowledge, moral responsibility, and the examined life.",
+  
+  "earlyLife": [
+    "Born in Athens around 470 BCE to Sophroniscus (a stonemason/sculptor) and Phainarete (a midwife)",
+    "Received a basic Athenian education emphasizing music, gymnastics, and rhetoric",
+    "Fought as a hoplite in the Peloponnesian War, earning a reputation for endurance and bravery",
+    "Married Xanthippe; traditionally said to have three sons",
+    "Lived modestly, often barefoot and simply clothed, avoiding luxury and material concerns",
+    "Became known in Athens for public conversations in the agora with citizens, artisans, and politicians",
+    "Attracted a circle of young followers and interlocutors, including Plato and Xenophon"
+  ],
+  
+  "academyYears": {
+    "period": "N/A (Pre-Academy Athens)",
+    "description": "Socrates did not found a formal school nor write treatises; his ‘school’ was the Athenian public square, where dialectical inquiry unfolded through live conversation.",
+    "keyDevelopments": [
+      {
+        "title": "Turn to Ethics",
+        "description": "Shifted philosophical focus from natural speculation to human excellence, virtue, and the good life.",
+        "impact": "Set the agenda for later moral philosophy and personal ethical development."
+      },
+      {
+        "title": "Elenchus and Aporia",
+        "description": "Developed a method of refutation that revealed contradictions, often ending in constructive puzzlement.",
+        "impact": "Cultivated intellectual humility and the drive for clearer definitions."
+      },
+      {
+        "title": "Maieutic Method",
+        "description": "Compared himself to a midwife who helps others ‘give birth’ to ideas through guided questioning.",
+        "impact": "Established dialogical pedagogy centered on self-discovery rather than indoctrination."
+      }
+    ]
+  },
+  
+  "majorWorks": [
+    {
+      "category": "Dialogical Legacy",
+      "works": [
+        {
+          "title": "No extant writings by Socrates",
+          "description": "Philosophy preserved through dialogues and accounts by students (notably Plato, Xenophon) and Aristophanes’ satire."
+        }
+      ]
+    },
+    {
+      "category": "Platonic Dialogues Featuring Socrates",
+      "works": [
+        {
+          "title": "Apology",
+          "description": "Socrates’ defense speech on philosophy, virtue, and the examined life."
+        },
+        {
+          "title": "Crito",
+          "description": "Dialogue on justice, law, and the duty to obey justly constituted authority."
+        },
+        {
+          "title": "Euthyphro",
+          "description": "Inquiry into the nature of piety and the challenge of defining moral terms."
+        },
+        {
+          "title": "Meno",
+          "description": "Explores virtue, teachability, and recollection as a model of learning."
+        },
+        {
+          "title": "Gorgias",
+          "description": "Critique of rhetoric when divorced from truth and justice."
+        },
+        {
+          "title": "Phaedo",
+          "description": "Accounts of Socrates’ final hours, the soul, and philosophy as preparation for death."
+        }
+      ]
+    }
+  ],
+  
+  "achievements": [
+    "Pioneered the Socratic method (elenchus) of disciplined questioning",
+    "Reoriented philosophy toward ethics, virtue, and the care of the soul",
+    "Modelled intellectual humility: acknowledging ignorance as the beginning of wisdom",
+    "Influenced generations through students, especially Plato and Xenophon",
+    "Embodied philosophy as a way of life culminating in martyr-like commitment to principles",
+    "Advocated that wrongdoing stems from ignorance, linking knowledge to virtue",
+    "Advanced definition-seeking inquiry for moral and conceptual clarity",
+    "Integrated civic engagement with philosophical practice in public spaces",
+    "Established dialogical pedagogy focused on maieutics (midwifery of ideas)",
+    "Shaped the Western ideal of the examined life as a moral imperative"
+  ],
+  
+  "philosophy": [
+    "Know Thyself: Self-knowledge as the foundation of wisdom and virtue",
+    "The Examined Life: Ongoing scrutiny of beliefs, desires, and actions",
+    "Intellectual Humility: Wisdom begins by recognizing what one does not know",
+    "Virtue as Knowledge: No one errs willingly; moral failure is ignorance",
+    "Care of the Soul: Moral cultivation ranks above wealth, honor, and power",
+    "Socratic Method: Dialectical questioning to test definitions and expose contradictions",
+    "Moral Rationalism: Reasoned inquiry guides right action and character",
+    "Piety and Justice: Ethical living requires clarity about the good and the lawful",
+    "Civic Responsibility: Philosophical engagement within the community",
+    "Integrity unto Death: Fidelity to principle even under threat of punishment"
+  ],
+  
+  "personalLife": [
+    "Known for ironic modesty and a distinctive unattractive appearance by conventional standards",
+    "Practiced austerity and resisted bodily indulgence, emphasizing moderation",
+    "Served in the Athenian army at Potidaea, Delium, and Amphipolis with notable courage",
+    "Maintained a circle of companions and interlocutors across social classes",
+    "Reported a daimonion (inner sign) that warned against mistaken courses of action",
+    "Married Xanthippe; later sources describe a demanding household life",
+    "Lived in Athens most of his life, rarely if ever traveling abroad",
+    "Accepted a death sentence by hemlock rather than abandoning his principles"
+  ],
+  
+  "legacy": [
+    "Catalyst for Platonic philosophy and the classical dialogue form",
+    "Moral archetype of the philosopher as gadfly and conscientious dissenter",
+    "Enduring model of rigorous questioning across law, science, and education",
+    "Foundational influence on Western ethics and theories of virtue",
+    "Inspiration for civic courage and freedom of inquiry",
+    "Template for problem-based learning and critical thinking pedagogy",
+    "Shaped ideals of academic and intellectual integrity",
+    "Icon of philosophical martyrdom for truth and justice",
+    "Instrumental in the formation of schools: Platonic Academy and beyond",
+    "Perennial touchstone for self-knowledge and ethical authenticity"
+  ],
+  
+  "famousQuotes": [
+    "The unexamined life is not worth living.",
+    "I know that I know nothing.",
+    "No one is wiser than Socrates.",
+    "It is better to suffer wrong than to do wrong.",
+    "Be as you wish to seem.",
+    "False words are not only evil in themselves, but they infect the soul with evil.",
+    "Wonder is the beginning of wisdom.",
+    "He who is not contented with what he has would not be contented with what he would like to have.",
+    "Education is the kindling of a flame, not the filling of a vessel.",
+    "To find yourself, think for yourself."
+  ],
+  
+  "scientificImpact": {
+    "biology": "Indirect; shifted focus from nature-speculation to ethical inquiry, influencing later epistemology and pedagogy",
+    "physics": "Minimal direct contribution; known more for critiquing sophistic claims than for natural philosophy",
+    "logic": "Seeded definition-seeking and refutation through dialogue, a precursor to systematic logic later developed by Aristotle",
+    "psychology": "Emphasized the soul’s care, moral cognition, and the role of self-knowledge in behavior",
+    "cosmology": "No systematic model; discussions focus on piety, divine wisdom, and human ignorance",
+    "methodology": "Established iterative questioning, elenchus, and aporia as disciplined methods of inquiry"
+  },
+  
+  "educationalContributions": [
+    "Originated dialogical, question-led instruction (Socratic method)",
+    "Centered learning on definitions, examples, and counterexamples",
+    "Framed ignorance-admission as a learning virtue",
+    "Promoted ethical formation over mere information transfer",
+    "Demonstrated public, accessible philosophy beyond formal schools",
+    "Modeled maieutics: guiding learners to discover their own insights",
+    "Encouraged cross-examination to test beliefs for coherence",
+    "Integrated moral exemplarity with pedagogy",
+    "Inspired later institutional education through Platonic dialogues",
+    "Made critical thinking a civic practice"
+  ],
+  
+  "keyConcepts": [
+    {
+      "concept": "Elenchus (Refutation)",
+      "explanation": "Systematic questioning that tests claims, exposes contradictions, and refines beliefs toward truth."
+    },
+    {
+      "concept": "Aporia",
+      "explanation": "Constructive puzzlement arising from inquiry, prompting deeper investigation and intellectual humility."
+    },
+    {
+      "concept": "Maieutics",
+      "explanation": "‘Midwifery’ of ideas; helping interlocutors bring forth knowledge through guided dialogue."
+    },
+    {
+      "concept": "Virtue as Knowledge",
+      "explanation": "Wrongdoing stems from ignorance; knowing the good aligns action with virtue."
+    },
+    {
+      "concept": "Care of the Soul",
+      "explanation": "Prioritizing moral and intellectual excellence over external goods."
+    },
+    {
+      "concept": "Piety and Justice",
+      "explanation": "Clarifying moral terms and respecting lawful order while holding to higher ethical principles."
+    }
+  ],
+  
+  "influence": {
+    "ancientWorld": "Inspired Plato’s dialogues and set ethical inquiry at the center of philosophy",
+    "medievalEurope": "Transmitted via Platonic and Aristotelian traditions shaping Christian moral thought",
+    "islamicWorld": "Socratic ethics and dialectic referenced through commentaries on Platonic works",
+    "renaissance": "Revived as a model of moral seriousness and free inquiry",
+    "modernPhilosophy": "Prototype of critical reflection, moral internalism, and autonomy",
+    "contemporaryScience": "Influences hypothesis-testing dialogue, ethics in research, and critical pedagogy"
+  }
+}

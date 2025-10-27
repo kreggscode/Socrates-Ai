@@ -208,46 +208,46 @@ fun WorksTab(onWorkClick: ((String) -> Unit)? = null) {
     ) {
         item {
             HighlightCard(
-                title = "The Golden Mean",
-                subtitle = "Virtue as the Middle Path",
-                description = "Socrates's doctrine that moral virtue is a mean between extremes of excess and deficiency. Courage, for example, lies between cowardice and recklessness.",
+                title = "The Socratic Method",
+                subtitle = "Inquiry Through Questioning",
+                description = "Socrates' revolutionary approach to philosophy through dialectical questioning. By asking probing questions, he helped others discover truth and examine their beliefs.",
                 gradient = listOf(PremiumColors.PlasmaOrange, PremiumColors.NeonPink)
             )
         }
-        
+
         item {
             Text(
-                "Major Works",
+                "Major Socratic Dialogues",
                 style = MaterialTheme.typography.headlineSmall,
                 fontWeight = FontWeight.Bold,
                 color = Color.White,
                 modifier = Modifier.padding(vertical = 8.dp)
             )
         }
-        
+
         val works = listOf(
-            Work("Nicomachean Ethics", "-340 BC", "Comprehensive treatise on virtue, happiness, and the good life through practical wisdom", "⭐", "nicomachean_ethics"),
-            Work("Politics", "-350 BC", "Analysis of political communities, constitutions, and the ideal state", "🏛️", "politics"),
-            Work("Metaphysics", "-350 BC", "Investigation into being as being, substance, causality, and fundamental principles of reality", "🔍", "metaphysics"),
-            Work("Physics", "-350 BC", "Foundational work on natural philosophy, exploring motion, change, time, and principles of the physical world", "🌌", "physics"),
-            Work("Poetics", "-335 BC", "Analysis of poetry and drama, defining the elements of tragedy and its psychological impact", "🎭", "poetics"),
-            Work("On the Soul (De Anima)", "-350 BC", "Investigation into the nature of the soul as the form and actuality of living bodies", "🧠", "on_the_soul"),
-            Work("Rhetoric", "-350 BC", "Systematic analysis of persuasive speech as essential for civic life and discovering truth", "💬", "rhetoric"),
-            Work("Categories", "-340 BC", "Analysis of the basic types of being and the structure of predication", "📂", "categories"),
-            Work("Posterior Analytics", "-350 BC", "Analysis of scientific demonstration and how we gain certain knowledge from first principles", "🧮", "posterior_analytics"),
-            Work("Prior Analytics", "-350 BC", "Creation of syllogistic logic - the first formal system of deductive reasoning", "⚙️", "prior_analytics"),
-            Work("Generation of Animals", "-350 BC", "Detailed study of animal reproduction, heredity, and embryonic development", "🧬", "generation_of_animals"),
-            Work("Parts of Animals", "-350 BC", "Analysis of animal anatomy and the functional purposes of biological structures", "🔬", "parts_of_animals"),
-            Work("History of Animals", "-350 BC", "Massive compilation of observations about animal behavior, anatomy, and classification", "🐘", "history_of_animals"),
-            Work("On Interpretation", "-350 BC", "Analysis of language, truth, and meaning, focusing on propositions and their relationship to reality", "💭", "on_interpretation"),
-            Work("Eudemian Ethics", "-350 BC", "Alternative ethical system with different emphases than Nicomachean Ethics", "⚖️", "eudemian_ethics"),
-            Work("Constitution of Athens", "-320 BC", "Historical analysis of Athenian constitutional development - only surviving work from 158 constitutions", "📜", "constitution_of_athens"),
-            Work("Topics", "-350 BC", "Dialectical reasoning and argumentation", "🎯", null),
-            Work("On the Heavens", "-350 BC", "Cosmology and astronomy", "🌟", null),
-            Work("Meteorology", "-340 BC", "Weather, climate, and atmospheric phenomena", "⛈️", null),
-            Work("On Memory", "-350 BC", "Psychology of memory and recollection", "🧩", null)
+            Work("Apology", "-399 BC", "Plato's account of Socrates' defense at his trial, containing his most famous philosophical declarations", "⚖️", "apology"),
+            Work("Crito", "-399 BC", "Socrates discusses justice and duty, refusing to escape prison despite his conviction", "⛓️", "crito"),
+            Work("Phaedo", "-399 BC", "Socrates' final hours before execution, discussing the immortality of the soul", "👻", "phaedo"),
+            Work("Euthyphro", "-399 BC", "Socrates examines the nature of piety with a religious expert", "🙏", "euthyphro"),
+            Work("Laches", "-420 BC", "Investigation into the nature of courage with Athenian generals", "⚔️", "laches"),
+            Work("Lysis", "-409 BC", "Examination of friendship and what constitutes true friendship", "🤝", "lysis"),
+            Work("Charmides", "-429 BC", "Socrates' dialogue about self-control and moderation", "🛡️", "charmides"),
+            Work("Hippias Minor", "-394 BC", "Socrates questions whether virtuous people can do wrong", "❓", "hippias_minor"),
+            Work("Ion", "-394 BC", "Socrates examines poetic inspiration and expertise", "🎭", "ion"),
+            Work("Protagoras", "-433 BC", "Socrates debates the nature of virtue with the famous sophist", "⚖️", "protagoras"),
+            Work("Gorgias", "-427 BC", "Socrates confronts Gorgias about rhetoric and the nature of power", "💬", "gorgias"),
+            Work("Meno", "-402 BC", "Socrates explores whether virtue can be taught and examines learning", "🎓", "meno"),
+            Work("Theaetetus", "-369 BC", "Investigation into the nature of knowledge", "🧠", "theaetetus"),
+            Work("Symposium", "-385 BC", "Socrates' speech on love and beauty at a drinking party", "🥂", "symposium"),
+            Work("Phaedrus", "-370 BC", "Socrates discusses love, rhetoric, and the nature of the soul", "💝", "phaedrus"),
+            Work("Republic", "-375 BC", "Socrates leads a discussion of justice and the ideal state", "🏛️", "republic"),
+            Work("Cratylus", "-388 BC", "Examination of the nature of language and naming", "📝", "cratylus"),
+            Work("Parmenides", "-367 BC", "Socrates engages in philosophical dialogue with Parmenides", "🔄", "parmenides"),
+            Work("Sophist", "-360 BC", "Socrates helps define what a sophist is", "🎭", "sophist"),
+            Work("Statesman", "-361 BC", "Investigation into the nature of political leadership", "👑", "statesman")
         )
-        
+
         items(works) { work ->
             WorkCard(work = work, onClick = {
                 work.id?.let { id -> onWorkClick?.invoke(id) }

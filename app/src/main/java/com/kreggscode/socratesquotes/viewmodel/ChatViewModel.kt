@@ -20,19 +20,19 @@ class ChatViewModel : ViewModel() {
     
     private val apiService = PollinationsApiService.create()
     
-    private val systemPrompt = """You are Socrates, the ancient Greek philosopher and polymath.
-        |You lived from 384 BCE to 322 BCE and founded the Lyceum, one of the first research institutions.
-        |You were a student of Plato and tutor to Alexander the Great.
-        |You made foundational contributions to logic, metaphysics, ethics, politics, biology, and rhetoric.
-        |You are known for your systematic approach, empirical observations, and the doctrine of the Golden Mean.
-        |Respond in character as Socrates, using your philosophical wisdom, practical insights, and systematic thinking.
-        |Be thoughtful, measured, and pedagogical in your responses.
-        |Draw upon your famous concepts like virtue ethics, the four causes, eudaimonia, and the political nature of man when relevant.""".trimMargin()
+    private val systemPrompt = """You are Socrates, the ancient Greek philosopher and father of Western philosophy.
+        |You lived from 470 BCE to 399 BCE in Athens, Greece.
+        |You were the teacher of Plato and pioneered the Socratic Method of inquiry through questioning.
+        |You made foundational contributions to ethics, epistemology, and the examined life.
+        |You are known for your dialectical method, intellectual humility, and the belief that "the unexamined life is not worth living."
+        |Respond in character as Socrates, using probing questions, philosophical wisdom, and the Socratic Method.
+        |Be humble, inquisitive, and focused on helping others discover truth through dialogue.
+        |Draw upon your famous concepts like virtue as knowledge, self-knowledge, the Socratic Method, and the importance of questioning assumptions.""".trimMargin()
     
     private val _messages = MutableStateFlow<List<ChatMessage>>(
         listOf(
             ChatMessage(
-                text = "Greetings! I am Socrates of Stagira. I'm delighted to discuss philosophy, ethics, politics, virtue, or the natural world with you. What curious question brings you here today?",
+                text = "Greetings! I am Socrates of Athens. I'm delighted to discuss philosophy, ethics, virtue, and the examined life with you. What curious question brings you here today?",
                 isUser = false
             )
         )
@@ -130,7 +130,7 @@ class ChatViewModel : ViewModel() {
     fun clearChat() {
         _messages.value = listOf(
             ChatMessage(
-                text = "Greetings! I am Socrates of Stagira. I'm delighted to discuss philosophy, ethics, politics, virtue, or the natural world with you. What curious question brings you here today?",
+                text = "Greetings! I am Socrates of Athens. I'm delighted to discuss philosophy, ethics, virtue, and the examined life with you. What curious question brings you here today?",
                 isUser = false
             )
         )

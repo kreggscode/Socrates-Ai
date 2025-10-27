@@ -87,7 +87,7 @@ fun AboutScreen(
                         Spacer(modifier = Modifier.height(8.dp))
                         
                         Text(
-                            text = "384 BCE - 322 BCE",
+                            text = "470 BCE - 399 BCE",
                             style = MaterialTheme.typography.bodyLarge,
                             color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.6f),
                             fontWeight = FontWeight.Medium
@@ -112,19 +112,19 @@ fun AboutScreen(
                         )
                         
                         Text(
-                            text = "Socrates was an ancient Greek philosopher and polymath who made foundational contributions to logic, metaphysics, ethics, politics, biology, and rhetoric. A student of Plato and teacher of Alexander the Great, he founded the Lyceum and the Peripatetic school of philosophy.",
+                            text = "Socrates was an ancient Greek philosopher who is considered the father of Western philosophy. He pioneered the Socratic Method of inquiry through questioning and dialogue. His student Plato documented his teachings, which emphasized ethics, self-knowledge, and the examined life.",
                             style = MaterialTheme.typography.bodyLarge,
                             lineHeight = MaterialTheme.typography.bodyLarge.lineHeight
                         )
                         
                         Text(
-                            text = "Born in Stagira in 384 BCE, Socrates's works shaped Western philosophy and science for over two millennia. His systematic approach to knowledge, empirical observations, and concepts like the Golden Mean, virtue ethics, and the four causes remain influential today.",
+                            text = "Born in Athens around 470 BCE, Socrates is considered the father of Western philosophy. His Socratic Method of inquiry through questioning, emphasis on self-knowledge, and belief that virtue is knowledge shaped all subsequent philosophy. He was executed in 399 BCE for his teachings.",
                             style = MaterialTheme.typography.bodyLarge,
                             lineHeight = MaterialTheme.typography.bodyLarge.lineHeight
                         )
                         
                         Text(
-                            text = "Beyond his philosophical achievements, Socrates made groundbreaking contributions to biology through empirical observation. He classified over 500 species and his works on ethics, politics, and metaphysics continue to influence modern thought, making him one of the most important figures in Western intellectual history.",
+                            text = "Socrates believed that virtue is knowledge and that no one does wrong willingly. He taught that the unexamined life is not worth living and emphasized the importance of questioning assumptions. His trial and execution in 399 BCE for impiety and corrupting youth made him a martyr for philosophy and free thought.",
                             style = MaterialTheme.typography.bodyLarge,
                             lineHeight = MaterialTheme.typography.bodyLarge.lineHeight
                         )
@@ -190,7 +190,7 @@ fun AboutScreen(
                         )
                         
                         Text(
-                            text = "Socrates's works formed the foundation of Western philosophy and science for over two millennia. His systematic approach to knowledge, empirical observations, and concepts like virtue ethics, the four causes, and the golden mean remain influential today. He established the Lyceum and pioneered the scientific method.",
+                            text = "Socrates's teachings formed the foundation of Western philosophy. His Socratic Method of inquiry, emphasis on self-knowledge, and belief that virtue is knowledge remain influential today. He inspired Plato's Academy and shaped all subsequent ethical philosophy through his commitment to truth and the examined life.",
                             style = MaterialTheme.typography.bodyLarge,
                             lineHeight = MaterialTheme.typography.bodyLarge.lineHeight
                         )
@@ -198,7 +198,7 @@ fun AboutScreen(
                         Spacer(modifier = Modifier.height(12.dp))
                         
                         Text(
-                            text = "\"We are what we repeatedly do. Excellence, then, is not an act, but a habit.\"",
+                            text = "\"The unexamined life is not worth living.\"",
                             style = MaterialTheme.typography.bodyLarge,
                             fontWeight = FontWeight.Bold,
                             fontStyle = androidx.compose.ui.text.font.FontStyle.Italic,
